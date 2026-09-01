@@ -126,8 +126,8 @@ The dashboard helps management:
 
 ### Sales Performance
 
-![Sales Dashboard](Dashboard/Page1_Sales_Dashboard.png)
+![Sales Dashboard](images/Sales_Dashboard.png)
 
 ### Delivery & Payment Analysis
 
-![Delivery and Payment Dashboard](Dashboard/Page2_Delivery_Payment.png)
+![Delivery and Payment Dashboard](images/Delivery_Payment_Dashboard.png)
