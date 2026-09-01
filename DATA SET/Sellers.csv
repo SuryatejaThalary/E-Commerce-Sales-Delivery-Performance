@@ -1,0 +1,301 @@
+seller_id,seller_name,seller_region,seller_rating,seller_type,commission_rate
+30001,Seller_30001,South,4.7,Distributor,0.089
+30002,Seller_30002,North,3.5,Small Business,0.152
+30003,Seller_30003,Southwest,4.7,Distributor,0.104
+30004,Seller_30004,East,3.8,Distributor,0.07
+30005,Seller_30005,North,4.2,Small Business,0.146
+30006,Seller_30006,Southeast,4.2,Retailer,0.158
+30007,Seller_30007,West,3.9,Manufacturer,0.162
+30008,Seller_30008,Southwest,3.8,Retailer,0.17
+30009,Seller_30009,West,3.9,Retailer,0.147
+30010,Seller_30010,Southeast,3.6,Distributor,0.119
+30011,Seller_30011,Central,5.0,Retailer,0.172
+30012,Seller_30012,West,3.9,Retailer,0.077
+30013,Seller_30013,West,4.6,Retailer,0.06
+30014,Seller_30014,East,4.6,Small Business,0.106
+30015,Seller_30015,Northeast,4.3,Retailer,0.126
+30016,Seller_30016,Central,4.0,Retailer,0.138
+30017,Seller_30017,North,4.2,Retailer,0.156
+30018,Seller_30018,West,4.4,Manufacturer,0.053
+30019,Seller_30019,West,4.1,Manufacturer,0.154
+30020,Seller_30020,Southwest,3.4,Small Business,0.128
+30021,Seller_30021,West,3.3,Retailer,0.174
+30022,Seller_30022,Central,4.8,Distributor,0.095
+30023,Seller_30023,North,2.9,Manufacturer,0.13
+30024,Seller_30024,West,4.2,Manufacturer,0.15
+30025,Seller_30025,East,4.0,Manufacturer,0.117
+30026,Seller_30026,West,4.2,Distributor,0.07
+30027,Seller_30027,Southwest,3.6,Retailer,0.056
+30028,Seller_30028,Southwest,4.3,Manufacturer,0.064
+30029,Seller_30029,East,4.2,Retailer,0.114
+30030,Seller_30030,Central,5.0,Small Business,0.133
+30031,Seller_30031,Southwest,4.2,Small Business,0.124
+30032,Seller_30032,South,4.7,Retailer,0.143
+30033,Seller_30033,West,3.4,Distributor,0.055
+30034,Seller_30034,Central,4.6,Retailer,0.068
+30035,Seller_30035,North,4.2,Retailer,0.149
+30036,Seller_30036,West,4.2,Manufacturer,0.152
+30037,Seller_30037,North,4.2,Small Business,0.141
+30038,Seller_30038,East,4.9,Retailer,0.147
+30039,Seller_30039,North,4.2,Retailer,0.175
+30040,Seller_30040,Northeast,3.7,Distributor,0.173
+30041,Seller_30041,Southeast,3.8,Manufacturer,0.134
+30042,Seller_30042,East,4.5,Small Business,0.092
+30043,Seller_30043,North,4.3,Manufacturer,0.052
+30044,Seller_30044,West,3.4,Manufacturer,0.132
+30045,Seller_30045,North,4.3,Retailer,0.106
+30046,Seller_30046,West,3.6,Retailer,0.069
+30047,Seller_30047,Central,4.3,Manufacturer,0.078
+30048,Seller_30048,West,3.7,Manufacturer,0.172
+30049,Seller_30049,Central,4.0,Retailer,0.059
+30050,Seller_30050,Central,3.9,Small Business,0.152
+30051,Seller_30051,South,4.8,Distributor,0.167
+30052,Seller_30052,Northeast,4.3,Retailer,0.139
+30053,Seller_30053,Northeast,4.7,Distributor,0.058
+30054,Seller_30054,South,5.0,Retailer,0.16
+30055,Seller_30055,West,4.1,Retailer,0.135
+30056,Seller_30056,East,4.8,Retailer,0.086
+30057,Seller_30057,West,3.8,Retailer,0.132
+30058,Seller_30058,Southeast,4.7,Distributor,0.068
+30059,Seller_30059,Central,3.7,Manufacturer,0.142
+30060,Seller_30060,Southwest,4.1,Retailer,0.167
+30061,Seller_30061,Central,4.3,Manufacturer,0.118
+30062,Seller_30062,North,4.4,Retailer,0.174
+30063,Seller_30063,Northeast,3.5,Distributor,0.107
+30064,Seller_30064,North,3.7,Manufacturer,0.161
+30065,Seller_30065,East,4.4,Retailer,0.151
+30066,Seller_30066,Southwest,3.9,Distributor,0.061
+30067,Seller_30067,Southwest,3.5,Small Business,0.169
+30068,Seller_30068,South,4.1,Manufacturer,0.168
+30069,Seller_30069,Southwest,4.0,Manufacturer,0.096
+30070,Seller_30070,Southwest,4.2,Manufacturer,0.153
+30071,Seller_30071,Southwest,4.3,Distributor,0.079
+30072,Seller_30072,Southeast,4.3,Retailer,0.054
+30073,Seller_30073,North,3.8,Distributor,0.077
+30074,Seller_30074,North,3.9,Manufacturer,0.113
+30075,Seller_30075,Central,4.5,Small Business,0.058
+30076,Seller_30076,North,3.9,Manufacturer,0.071
+30077,Seller_30077,East,3.9,Distributor,0.174
+30078,Seller_30078,Southwest,3.4,Small Business,0.114
+30079,Seller_30079,Southwest,4.1,Retailer,0.157
+30080,Seller_30080,East,4.3,Distributor,0.077
+30081,Seller_30081,Central,3.2,Small Business,0.062
+30082,Seller_30082,Central,3.6,Retailer,0.151
+30083,Seller_30083,East,3.5,Manufacturer,0.095
+30084,Seller_30084,South,4.5,Manufacturer,0.11
+30085,Seller_30085,West,3.2,Small Business,0.179
+30086,Seller_30086,Central,4.1,Distributor,0.091
+30087,Seller_30087,Southeast,4.4,Retailer,0.112
+30088,Seller_30088,Southeast,4.2,Manufacturer,0.133
+30089,Seller_30089,North,3.9,Manufacturer,0.062
+30090,Seller_30090,Northeast,4.3,Small Business,0.143
+30091,Seller_30091,Central,4.6,Small Business,0.109
+30092,Seller_30092,North,4.1,Manufacturer,0.073
+30093,Seller_30093,Southeast,3.1,Manufacturer,0.106
+30094,Seller_30094,Central,4.6,Retailer,0.11
+30095,Seller_30095,Northeast,4.3,Retailer,0.133
+30096,Seller_30096,Northeast,4.1,Distributor,0.172
+30097,Seller_30097,East,3.2,Manufacturer,0.149
+30098,Seller_30098,South,4.0,Small Business,0.1
+30099,Seller_30099,West,3.7,Manufacturer,0.176
+30100,Seller_30100,Southeast,3.6,Distributor,0.153
+30101,Seller_30101,Northeast,4.0,Distributor,0.054
+30102,Seller_30102,Northeast,3.9,Manufacturer,0.065
+30103,Seller_30103,South,3.9,Retailer,0.078
+30104,Seller_30104,North,4.4,Distributor,0.061
+30105,Seller_30105,Northeast,4.2,Retailer,0.113
+30106,Seller_30106,Southwest,3.9,Distributor,0.094
+30107,Seller_30107,East,3.8,Manufacturer,0.176
+30108,Seller_30108,West,3.9,Small Business,0.111
+30109,Seller_30109,Southwest,4.0,Retailer,0.078
+30110,Seller_30110,South,4.4,Distributor,0.176
+30111,Seller_30111,Central,3.6,Manufacturer,0.117
+30112,Seller_30112,North,4.8,Retailer,0.059
+30113,Seller_30113,East,4.4,Retailer,0.061
+30114,Seller_30114,East,2.9,Retailer,0.138
+30115,Seller_30115,Northeast,4.1,Retailer,0.114
+30116,Seller_30116,East,4.6,Manufacturer,0.131
+30117,Seller_30117,West,4.3,Small Business,0.16
+30118,Seller_30118,East,3.9,Manufacturer,0.139
+30119,Seller_30119,South,4.1,Distributor,0.162
+30120,Seller_30120,Southeast,4.2,Retailer,0.147
+30121,Seller_30121,Northeast,4.4,Manufacturer,0.138
+30122,Seller_30122,Northeast,3.5,Distributor,0.068
+30123,Seller_30123,Central,3.8,Manufacturer,0.113
+30124,Seller_30124,South,4.8,Retailer,0.106
+30125,Seller_30125,Central,4.1,Retailer,0.12
+30126,Seller_30126,Northeast,4.8,Retailer,0.101
+30127,Seller_30127,West,5.0,Distributor,0.131
+30128,Seller_30128,Northeast,3.9,Distributor,0.101
+30129,Seller_30129,East,3.6,Retailer,0.122
+30130,Seller_30130,Central,4.0,Retailer,0.101
+30131,Seller_30131,West,4.6,Distributor,0.167
+30132,Seller_30132,Southwest,4.7,Manufacturer,0.099
+30133,Seller_30133,South,5.0,Manufacturer,0.145
+30134,Seller_30134,East,4.1,Distributor,0.13
+30135,Seller_30135,Northeast,4.3,Retailer,0.1
+30136,Seller_30136,North,3.8,Retailer,0.155
+30137,Seller_30137,Central,3.0,Small Business,0.171
+30138,Seller_30138,North,4.1,Distributor,0.149
+30139,Seller_30139,Central,3.6,Distributor,0.173
+30140,Seller_30140,East,4.4,Retailer,0.107
+30141,Seller_30141,South,3.3,Distributor,0.169
+30142,Seller_30142,West,3.8,Retailer,0.164
+30143,Seller_30143,East,4.2,Retailer,0.149
+30144,Seller_30144,North,4.3,Distributor,0.159
+30145,Seller_30145,Central,4.1,Distributor,0.145
+30146,Seller_30146,Central,4.9,Distributor,0.117
+30147,Seller_30147,Northeast,4.8,Retailer,0.122
+30148,Seller_30148,Southwest,3.8,Distributor,0.104
+30149,Seller_30149,Northeast,4.8,Manufacturer,0.136
+30150,Seller_30150,Southeast,4.9,Manufacturer,0.092
+30151,Seller_30151,Northeast,4.0,Retailer,0.146
+30152,Seller_30152,Northeast,4.1,Small Business,0.116
+30153,Seller_30153,Southeast,4.1,Small Business,0.096
+30154,Seller_30154,Northeast,3.8,Retailer,0.069
+30155,Seller_30155,Central,3.9,Manufacturer,0.083
+30156,Seller_30156,Northeast,4.7,Manufacturer,0.133
+30157,Seller_30157,Southwest,4.3,Distributor,0.098
+30158,Seller_30158,West,3.9,Retailer,0.054
+30159,Seller_30159,South,3.7,Retailer,0.093
+30160,Seller_30160,West,3.8,Distributor,0.098
+30161,Seller_30161,North,4.0,Small Business,0.08
+30162,Seller_30162,East,4.5,Distributor,0.087
+30163,Seller_30163,Southwest,3.7,Retailer,0.142
+30164,Seller_30164,North,4.5,Small Business,0.147
+30165,Seller_30165,Southwest,4.2,Retailer,0.175
+30166,Seller_30166,Central,4.2,Retailer,0.065
+30167,Seller_30167,East,4.6,Retailer,0.091
+30168,Seller_30168,West,4.5,Retailer,0.06
+30169,Seller_30169,Southwest,3.5,Retailer,0.13
+30170,Seller_30170,North,3.6,Distributor,0.052
+30171,Seller_30171,Central,4.0,Distributor,0.077
+30172,Seller_30172,East,4.3,Retailer,0.126
+30173,Seller_30173,Central,4.7,Retailer,0.097
+30174,Seller_30174,Southeast,4.1,Retailer,0.121
+30175,Seller_30175,Southwest,4.9,Distributor,0.133
+30176,Seller_30176,East,3.8,Manufacturer,0.159
+30177,Seller_30177,Northeast,3.9,Distributor,0.101
+30178,Seller_30178,West,4.0,Small Business,0.086
+30179,Seller_30179,Central,3.7,Distributor,0.12
+30180,Seller_30180,South,4.6,Distributor,0.059
+30181,Seller_30181,Southeast,2.9,Manufacturer,0.055
+30182,Seller_30182,South,3.9,Distributor,0.109
+30183,Seller_30183,North,4.6,Distributor,0.078
+30184,Seller_30184,Southeast,4.0,Retailer,0.051
+30185,Seller_30185,West,4.6,Manufacturer,0.138
+30186,Seller_30186,North,5.0,Distributor,0.156
+30187,Seller_30187,Northeast,4.1,Manufacturer,0.069
+30188,Seller_30188,East,4.6,Manufacturer,0.123
+30189,Seller_30189,Southwest,5.0,Retailer,0.178
+30190,Seller_30190,Southwest,4.3,Small Business,0.085
+30191,Seller_30191,Central,4.1,Retailer,0.145
+30192,Seller_30192,West,4.5,Small Business,0.071
+30193,Seller_30193,West,4.6,Manufacturer,0.171
+30194,Seller_30194,Central,4.1,Small Business,0.05
+30195,Seller_30195,Southwest,3.9,Distributor,0.088
+30196,Seller_30196,Northeast,4.9,Retailer,0.177
+30197,Seller_30197,North,4.0,Retailer,0.137
+30198,Seller_30198,South,4.6,Distributor,0.078
+30199,Seller_30199,Northeast,4.2,Distributor,0.153
+30200,Seller_30200,East,4.9,Manufacturer,0.167
+30201,Seller_30201,West,3.7,Distributor,0.113
+30202,Seller_30202,West,3.7,Distributor,0.07
+30203,Seller_30203,Central,4.5,Small Business,0.084
+30204,Seller_30204,South,3.6,Manufacturer,0.173
+30205,Seller_30205,North,4.2,Retailer,0.071
+30206,Seller_30206,South,4.8,Retailer,0.091
+30207,Seller_30207,Northeast,3.3,Manufacturer,0.069
+30208,Seller_30208,Central,4.3,Distributor,0.064
+30209,Seller_30209,Southeast,4.6,Distributor,0.118
+30210,Seller_30210,North,4.1,Distributor,0.102
+30211,Seller_30211,South,3.7,Distributor,0.056
+30212,Seller_30212,South,4.0,Manufacturer,0.069
+30213,Seller_30213,Central,3.7,Distributor,0.055
+30214,Seller_30214,Central,4.1,Retailer,0.053
+30215,Seller_30215,South,4.0,Retailer,0.073
+30216,Seller_30216,West,3.9,Manufacturer,0.147
+30217,Seller_30217,North,4.3,Retailer,0.052
+30218,Seller_30218,Central,4.8,Small Business,0.09
+30219,Seller_30219,Central,4.2,Manufacturer,0.123
+30220,Seller_30220,North,4.7,Manufacturer,0.147
+30221,Seller_30221,North,4.8,Manufacturer,0.138
+30222,Seller_30222,Northeast,3.8,Manufacturer,0.178
+30223,Seller_30223,Southwest,4.2,Retailer,0.086
+30224,Seller_30224,Southeast,3.9,Retailer,0.05
+30225,Seller_30225,Central,3.4,Retailer,0.055
+30226,Seller_30226,Central,4.3,Distributor,0.063
+30227,Seller_30227,Southeast,3.6,Retailer,0.177
+30228,Seller_30228,Southeast,4.3,Manufacturer,0.124
+30229,Seller_30229,Southwest,3.4,Manufacturer,0.154
+30230,Seller_30230,West,4.2,Manufacturer,0.178
+30231,Seller_30231,West,3.4,Small Business,0.16
+30232,Seller_30232,North,4.4,Retailer,0.103
+30233,Seller_30233,South,3.9,Retailer,0.164
+30234,Seller_30234,West,3.9,Retailer,0.106
+30235,Seller_30235,Southeast,4.6,Manufacturer,0.065
+30236,Seller_30236,West,4.0,Distributor,0.121
+30237,Seller_30237,Central,4.1,Retailer,0.169
+30238,Seller_30238,Southeast,4.0,Small Business,0.152
+30239,Seller_30239,West,4.3,Retailer,0.102
+30240,Seller_30240,East,4.6,Manufacturer,0.161
+30241,Seller_30241,Northeast,4.5,Small Business,0.11
+30242,Seller_30242,East,3.9,Distributor,0.139
+30243,Seller_30243,West,4.6,Distributor,0.093
+30244,Seller_30244,Southwest,3.7,Manufacturer,0.075
+30245,Seller_30245,West,3.8,Manufacturer,0.091
+30246,Seller_30246,East,4.0,Retailer,0.164
+30247,Seller_30247,Southeast,4.6,Retailer,0.179
+30248,Seller_30248,Northeast,3.6,Distributor,0.084
+30249,Seller_30249,Southeast,4.5,Manufacturer,0.071
+30250,Seller_30250,East,4.1,Retailer,0.059
+30251,Seller_30251,Southeast,3.9,Distributor,0.148
+30252,Seller_30252,Southwest,4.6,Distributor,0.119
+30253,Seller_30253,South,3.7,Manufacturer,0.122
+30254,Seller_30254,South,5.0,Small Business,0.056
+30255,Seller_30255,Central,4.0,Small Business,0.061
+30256,Seller_30256,Northeast,4.2,Distributor,0.169
+30257,Seller_30257,North,4.8,Retailer,0.125
+30258,Seller_30258,Central,4.2,Small Business,0.078
+30259,Seller_30259,South,4.6,Manufacturer,0.077
+30260,Seller_30260,Southwest,3.2,Small Business,0.081
+30261,Seller_30261,Northeast,3.9,Distributor,0.058
+30262,Seller_30262,Southwest,4.3,Retailer,0.056
+30263,Seller_30263,South,4.6,Retailer,0.144
+30264,Seller_30264,Southeast,4.4,Distributor,0.084
+30265,Seller_30265,West,4.4,Retailer,0.1
+30266,Seller_30266,North,4.6,Retailer,0.12
+30267,Seller_30267,West,4.3,Manufacturer,0.092
+30268,Seller_30268,West,3.1,Retailer,0.112
+30269,Seller_30269,Central,4.7,Small Business,0.162
+30270,Seller_30270,Southeast,3.7,Small Business,0.082
+30271,Seller_30271,East,4.2,Retailer,0.153
+30272,Seller_30272,Northeast,4.2,Manufacturer,0.084
+30273,Seller_30273,South,4.1,Distributor,0.074
+30274,Seller_30274,Southwest,3.6,Manufacturer,0.059
+30275,Seller_30275,West,3.2,Retailer,0.139
+30276,Seller_30276,Southeast,3.6,Retailer,0.104
+30277,Seller_30277,East,4.5,Small Business,0.15
+30278,Seller_30278,East,3.4,Manufacturer,0.067
+30279,Seller_30279,Southwest,3.7,Small Business,0.128
+30280,Seller_30280,South,4.3,Small Business,0.052
+30281,Seller_30281,Central,3.6,Retailer,0.08
+30282,Seller_30282,East,3.9,Small Business,0.129
+30283,Seller_30283,West,4.1,Distributor,0.057
+30284,Seller_30284,Northeast,4.2,Distributor,0.099
+30285,Seller_30285,Southeast,3.6,Manufacturer,0.123
+30286,Seller_30286,West,4.2,Manufacturer,0.145
+30287,Seller_30287,Northeast,4.3,Manufacturer,0.142
+30288,Seller_30288,North,3.5,Retailer,0.069
+30289,Seller_30289,South,4.2,Distributor,0.06
+30290,Seller_30290,Northeast,3.8,Manufacturer,0.099
+30291,Seller_30291,Northeast,4.2,Manufacturer,0.081
+30292,Seller_30292,North,4.4,Retailer,0.09
+30293,Seller_30293,Southwest,4.0,Small Business,0.095
+30294,Seller_30294,West,4.5,Distributor,0.102
+30295,Seller_30295,East,4.5,Retailer,0.117
+30296,Seller_30296,West,4.5,Small Business,0.051
+30297,Seller_30297,West,4.3,Retailer,0.089
+30298,Seller_30298,Central,4.6,Retailer,0.084
+30299,Seller_30299,South,4.3,Retailer,0.081
+30300,Seller_30300,South,3.3,Small Business,0.153

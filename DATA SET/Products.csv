@@ -1,0 +1,1001 @@
+product_id,product_name,category,brand,unit_cost,supplier,product_rating,list_price
+20001,Product_20001,Garden,ProGear,9105.7,Supplier_45,4.3,15787.07
+20002,Product_20002,Health & Wellness,CloudNine,18346.52,Supplier_73,3.6,31041.51
+20003,Product_20003,Fashion,Prime,19453.14,Supplier_10,4.5,26319.24
+20004,Product_20004,Gaming,Prime,19772.3,Supplier_51,3.1,32718.5
+20005,Product_20005,Gaming,Urban,18528.69,Supplier_12,3.9,39451.86
+20006,Product_20006,Electronics,Prime,5867.4,Supplier_49,4.0,9258.5
+20007,Product_20007,Electronics,Nova,7298.26,Supplier_53,4.3,14747.79
+20008,Product_20008,Fashion,CloudNine,23556.82,Supplier_5,3.4,35637.88
+20009,Product_20009,Office Supplies,EcoLife,13891.12,Supplier_45,2.9,24472.48
+20010,Product_20010,Automotive,ProGear,18885.81,Supplier_101,4.1,30525.02
+20011,Product_20011,Toys,EcoLife,15019.97,Supplier_146,4.3,27475.75
+20012,Product_20012,Sports,ProGear,23120.1,Supplier_93,4.6,47264.4
+20013,Product_20013,Books,Vision,21732.67,Supplier_107,3.8,34210.0
+20014,Product_20014,Kitchen,Apex,6608.23,Supplier_101,4.4,12556.44
+20015,Product_20015,Mobile Accessories,Apex,22129.27,Supplier_142,4.3,44900.64
+20016,Product_20016,Automotive,StyleHub,7570.98,Supplier_142,4.7,14636.45
+20017,Product_20017,Fashion,TechPro,11080.41,Supplier_18,4.0,12690.31
+20018,Product_20018,Office Supplies,FreshCart,21295.72,Supplier_71,3.0,23855.37
+20019,Product_20019,Furniture,Zen,8168.07,Supplier_137,4.0,16576.68
+20020,Product_20020,Mobile Accessories,Zen,7340.22,Supplier_133,4.0,13734.97
+20021,Product_20021,Sports,StyleHub,16749.56,Supplier_81,4.3,35289.25
+20022,Product_20022,Sports,Apex,24991.94,Supplier_67,3.2,35519.97
+20023,Product_20023,Toys,FreshCart,3363.32,Supplier_9,3.8,6496.61
+20024,Product_20024,Travel,Nova,17556.41,Supplier_72,4.5,34157.18
+20025,Product_20025,Jewelry,FreshCart,13221.19,Supplier_76,3.9,26482.66
+20026,Product_20026,Grocery,SmartOne,10324.38,Supplier_95,3.8,18922.41
+20027,Product_20027,Health & Wellness,Elite,18771.48,Supplier_79,5.0,23698.19
+20028,Product_20028,Toys,Zen,13915.42,Supplier_33,3.4,25345.14
+20029,Product_20029,Fashion,Elite,19965.5,Supplier_146,4.7,34792.24
+20030,Product_20030,Electronics,FreshCart,18621.96,Supplier_33,4.6,27256.63
+20031,Product_20031,Electronics,HomeMax,24629.46,Supplier_58,3.9,32877.17
+20032,Product_20032,Fashion,Zen,20290.56,Supplier_77,4.0,41223.38
+20033,Product_20033,Pet Supplies,Apex,1763.31,Supplier_44,4.0,2232.71
+20034,Product_20034,Books,Apex,19511.52,Supplier_11,4.1,30337.76
+20035,Product_20035,Books,EcoLife,16277.61,Supplier_92,3.7,28672.72
+20036,Product_20036,Grocery,CloudNine,2335.78,Supplier_36,3.8,4954.07
+20037,Product_20037,Footwear,EcoLife,15176.68,Supplier_132,3.8,27486.57
+20038,Product_20038,Health & Wellness,CloudNine,18795.01,Supplier_120,3.8,26952.51
+20039,Product_20039,Electronics,ProGear,5010.14,Supplier_65,3.8,5924.4
+20040,Product_20040,Kitchen,Vision,10929.3,Supplier_70,2.8,15817.26
+20041,Product_20041,Garden,Vision,13607.91,Supplier_143,4.1,19344.6
+20042,Product_20042,Travel,Elite,10387.5,Supplier_4,3.7,20397.43
+20043,Product_20043,Grocery,FreshCart,21912.52,Supplier_57,3.0,33041.5
+20044,Product_20044,Travel,Apex,4305.69,Supplier_10,3.8,5258.98
+20045,Product_20045,Fashion,EcoLife,19311.73,Supplier_21,3.8,38933.93
+20046,Product_20046,Fashion,HomeMax,19474.47,Supplier_138,4.7,22173.55
+20047,Product_20047,Beauty,Elite,11255.95,Supplier_16,3.7,12641.55
+20048,Product_20048,Electronics,Urban,13533.0,Supplier_144,4.4,21774.54
+20049,Product_20049,Footwear,FreshCart,3923.7,Supplier_118,4.8,4674.29
+20050,Product_20050,Travel,StyleHub,4959.42,Supplier_97,3.7,6459.22
+20051,Product_20051,Office Supplies,Elite,13338.45,Supplier_112,4.0,28475.5
+20052,Product_20052,Beauty,ProGear,5694.55,Supplier_28,5.0,11330.42
+20053,Product_20053,Beauty,TechPro,20180.99,Supplier_18,4.1,38484.32
+20054,Product_20054,Beauty,FreshCart,15443.83,Supplier_56,4.2,27967.49
+20055,Product_20055,Home Appliances,Apex,1508.81,Supplier_115,3.8,1764.18
+20056,Product_20056,Furniture,Nova,9011.13,Supplier_46,4.4,17850.92
+20057,Product_20057,Gaming,StyleHub,21474.81,Supplier_27,4.0,34474.03
+20058,Product_20058,Jewelry,TechPro,7008.36,Supplier_118,3.0,8559.1
+20059,Product_20059,Jewelry,Prime,18020.98,Supplier_96,3.8,25765.92
+20060,Product_20060,Footwear,CloudNine,2435.62,Supplier_81,3.3,3987.18
+20061,Product_20061,Travel,Nova,23270.29,Supplier_62,4.1,26390.96
+20062,Product_20062,Furniture,EcoLife,11288.71,Supplier_117,3.5,15578.33
+20063,Product_20063,Gaming,Urban,12339.98,Supplier_111,4.3,18090.43
+20064,Product_20064,Toys,Zen,14288.77,Supplier_55,4.0,22829.24
+20065,Product_20065,Beauty,Urban,9149.47,Supplier_20,3.3,10266.08
+20066,Product_20066,Office Supplies,TechPro,18159.6,Supplier_131,3.7,30915.01
+20067,Product_20067,Sports,Vision,463.13,Supplier_21,4.3,612.98
+20068,Product_20068,Footwear,Zen,4138.89,Supplier_65,4.6,7181.67
+20069,Product_20069,Jewelry,Vision,4801.64,Supplier_135,3.5,6560.6
+20070,Product_20070,Health & Wellness,HomeMax,15919.97,Supplier_63,3.4,24433.97
+20071,Product_20071,Kitchen,ProGear,22275.96,Supplier_125,5.0,39257.8
+20072,Product_20072,Books,HomeMax,1684.63,Supplier_74,4.0,3026.05
+20073,Product_20073,Beauty,TechPro,21326.22,Supplier_112,4.1,24557.43
+20074,Product_20074,Sports,StyleHub,20505.89,Supplier_89,3.6,34267.94
+20075,Product_20075,Travel,Vision,2007.98,Supplier_43,4.1,3937.93
+20076,Product_20076,Grocery,HomeMax,3666.39,Supplier_135,4.9,4885.89
+20077,Product_20077,Gaming,Elite,8816.13,Supplier_71,4.1,14704.85
+20078,Product_20078,Home Appliances,StyleHub,2955.27,Supplier_69,4.6,4672.41
+20079,Product_20079,Furniture,Zen,18981.32,Supplier_99,4.0,37875.95
+20080,Product_20080,Beauty,Nova,12651.33,Supplier_140,3.4,19886.95
+20081,Product_20081,Electronics,TechPro,10328.04,Supplier_131,3.6,21607.87
+20082,Product_20082,Travel,Nova,18151.2,Supplier_60,3.4,32526.97
+20083,Product_20083,Beauty,Nova,7393.09,Supplier_35,4.1,12555.13
+20084,Product_20084,Home Appliances,TechPro,21801.13,Supplier_49,4.7,30972.37
+20085,Product_20085,Kitchen,Zen,16383.77,Supplier_40,4.1,28416.36
+20086,Product_20086,Gaming,Elite,8727.98,Supplier_45,3.8,10955.22
+20087,Product_20087,Gaming,Vision,13542.83,Supplier_65,3.6,20974.21
+20088,Product_20088,Home Appliances,ProGear,6560.27,Supplier_4,4.2,9269.4
+20089,Product_20089,Office Supplies,EcoLife,24626.02,Supplier_80,3.3,44582.57
+20090,Product_20090,Grocery,Prime,10946.55,Supplier_128,3.4,20874.15
+20091,Product_20091,Pet Supplies,FreshCart,22429.68,Supplier_65,4.5,46574.96
+20092,Product_20092,Kitchen,StyleHub,24452.71,Supplier_12,3.8,32980.93
+20093,Product_20093,Health & Wellness,HomeMax,13441.23,Supplier_59,3.8,27303.08
+20094,Product_20094,Pet Supplies,SmartOne,18276.89,Supplier_51,3.9,36395.32
+20095,Product_20095,Travel,Apex,14348.94,Supplier_90,4.4,28817.04
+20096,Product_20096,Home Appliances,StyleHub,2380.03,Supplier_38,4.1,4480.86
+20097,Product_20097,Health & Wellness,SmartOne,23815.21,Supplier_46,3.6,33240.15
+20098,Product_20098,Home Appliances,Vision,11470.25,Supplier_112,3.6,23218.18
+20099,Product_20099,Garden,StyleHub,22362.17,Supplier_27,3.9,38855.05
+20100,Product_20100,Kitchen,CloudNine,16424.57,Supplier_140,4.2,30924.67
+20101,Product_20101,Furniture,CloudNine,2719.25,Supplier_45,4.0,3620.45
+20102,Product_20102,Footwear,Prime,10484.62,Supplier_123,3.9,13442.68
+20103,Product_20103,Travel,Prime,4976.62,Supplier_13,4.0,6992.93
+20104,Product_20104,Kitchen,StyleHub,4329.51,Supplier_48,4.0,7129.46
+20105,Product_20105,Fashion,FreshCart,17905.71,Supplier_57,3.6,27738.16
+20106,Product_20106,Pet Supplies,StyleHub,847.5,Supplier_69,4.6,1724.02
+20107,Product_20107,Health & Wellness,Urban,24156.9,Supplier_14,3.7,27379.65
+20108,Product_20108,Mobile Accessories,EcoLife,11303.09,Supplier_38,4.1,13591.4
+20109,Product_20109,Footwear,CloudNine,12294.97,Supplier_132,2.9,17891.3
+20110,Product_20110,Pet Supplies,Apex,7555.78,Supplier_139,3.9,9767.84
+20111,Product_20111,Grocery,HomeMax,2231.84,Supplier_67,3.4,3434.7
+20112,Product_20112,Electronics,SmartOne,14747.24,Supplier_18,3.5,27416.9
+20113,Product_20113,Kitchen,TechPro,8684.39,Supplier_42,5.0,18612.56
+20114,Product_20114,Travel,Nova,15639.41,Supplier_143,4.1,20771.28
+20115,Product_20115,Automotive,Vision,13938.67,Supplier_138,4.7,19429.86
+20116,Product_20116,Gaming,ProGear,5501.08,Supplier_123,4.5,10516.97
+20117,Product_20117,Home Appliances,SmartOne,11595.18,Supplier_130,4.5,16235.7
+20118,Product_20118,Jewelry,SmartOne,7770.77,Supplier_107,3.9,14336.0
+20119,Product_20119,Kitchen,SmartOne,6069.13,Supplier_94,4.9,10444.93
+20120,Product_20120,Gaming,Zen,19265.64,Supplier_117,4.5,38541.7
+20121,Product_20121,Toys,Nova,396.47,Supplier_97,4.0,457.66
+20122,Product_20122,Pet Supplies,CloudNine,6795.18,Supplier_51,4.1,14467.89
+20123,Product_20123,Home Appliances,Urban,13324.03,Supplier_97,3.9,28156.05
+20124,Product_20124,Electronics,FreshCart,11956.04,Supplier_45,4.0,13666.46
+20125,Product_20125,Health & Wellness,EcoLife,23510.12,Supplier_94,4.0,38427.17
+20126,Product_20126,Electronics,EcoLife,21107.07,Supplier_58,4.2,32367.04
+20127,Product_20127,Travel,Nova,18814.91,Supplier_74,5.0,25998.22
+20128,Product_20128,Electronics,CloudNine,12900.55,Supplier_28,3.3,27441.54
+20129,Product_20129,Jewelry,StyleHub,10779.78,Supplier_144,4.6,14011.97
+20130,Product_20130,Books,FreshCart,1010.58,Supplier_112,3.8,1406.18
+20131,Product_20131,Kitchen,ProGear,20559.54,Supplier_17,4.7,23200.82
+20132,Product_20132,Kitchen,Apex,10824.75,Supplier_72,3.8,18592.91
+20133,Product_20133,Sports,CloudNine,8092.09,Supplier_69,4.2,16237.77
+20134,Product_20134,Books,EcoLife,15205.2,Supplier_133,3.9,26769.82
+20135,Product_20135,Toys,Apex,18878.03,Supplier_114,3.0,33813.49
+20136,Product_20136,Jewelry,EcoLife,13123.98,Supplier_132,5.0,15595.36
+20137,Product_20137,Health & Wellness,SmartOne,3824.62,Supplier_71,3.5,7099.46
+20138,Product_20138,Sports,SmartOne,23049.0,Supplier_24,4.0,35524.84
+20139,Product_20139,Grocery,Zen,2909.95,Supplier_109,3.4,4678.98
+20140,Product_20140,Electronics,CloudNine,24242.33,Supplier_33,3.3,41759.01
+20141,Product_20141,Office Supplies,Urban,11117.68,Supplier_96,3.9,23620.9
+20142,Product_20142,Fashion,StyleHub,23670.92,Supplier_62,3.7,44752.92
+20143,Product_20143,Sports,FreshCart,22874.78,Supplier_53,3.4,41733.78
+20144,Product_20144,Gaming,Prime,10216.05,Supplier_18,4.0,15986.58
+20145,Product_20145,Office Supplies,HomeMax,20020.63,Supplier_121,3.2,23133.52
+20146,Product_20146,Beauty,StyleHub,2335.34,Supplier_104,4.1,3911.33
+20147,Product_20147,Books,ProGear,2160.08,Supplier_52,3.9,3889.67
+20148,Product_20148,Beauty,ProGear,8963.32,Supplier_111,2.6,16540.15
+20149,Product_20149,Kitchen,ProGear,15283.65,Supplier_148,3.7,26687.05
+20150,Product_20150,Furniture,TechPro,332.09,Supplier_109,4.3,474.68
+20151,Product_20151,Gaming,StyleHub,12927.86,Supplier_143,3.4,17422.39
+20152,Product_20152,Gaming,Nova,24393.61,Supplier_71,4.3,29584.49
+20153,Product_20153,Footwear,FreshCart,21475.29,Supplier_57,4.2,39598.64
+20154,Product_20154,Fashion,Zen,5888.52,Supplier_127,3.4,12483.13
+20155,Product_20155,Toys,StyleHub,13248.91,Supplier_100,4.0,22003.43
+20156,Product_20156,Kitchen,Vision,4368.08,Supplier_91,4.5,7920.98
+20157,Product_20157,Kitchen,ProGear,6655.18,Supplier_97,3.5,12201.48
+20158,Product_20158,Electronics,Prime,23082.72,Supplier_150,3.9,29690.97
+20159,Product_20159,Health & Wellness,ProGear,24944.68,Supplier_104,4.6,32866.0
+20160,Product_20160,Mobile Accessories,TechPro,6139.77,Supplier_123,3.5,8193.05
+20161,Product_20161,Beauty,HomeMax,5380.49,Supplier_6,4.3,11195.87
+20162,Product_20162,Health & Wellness,Prime,9658.1,Supplier_109,3.4,10972.06
+20163,Product_20163,Travel,Vision,11201.82,Supplier_48,3.9,18789.98
+20164,Product_20164,Kitchen,StyleHub,2322.29,Supplier_19,4.2,3503.16
+20165,Product_20165,Furniture,Prime,3777.95,Supplier_42,2.7,6797.03
+20166,Product_20166,Jewelry,Apex,10678.2,Supplier_125,3.7,14384.68
+20167,Product_20167,Electronics,Vision,5961.97,Supplier_123,4.2,12579.79
+20168,Product_20168,Fashion,Prime,21138.88,Supplier_46,4.1,30887.11
+20169,Product_20169,Home Appliances,StyleHub,18813.51,Supplier_29,3.7,39013.66
+20170,Product_20170,Gaming,Vision,13454.83,Supplier_63,3.4,23234.83
+20171,Product_20171,Grocery,Elite,10872.47,Supplier_50,4.3,16818.57
+20172,Product_20172,Automotive,Apex,20791.6,Supplier_70,3.8,39003.01
+20173,Product_20173,Office Supplies,Zen,4233.28,Supplier_118,4.3,7152.79
+20174,Product_20174,Gaming,Apex,22195.96,Supplier_50,4.2,28027.73
+20175,Product_20175,Gaming,Elite,1322.03,Supplier_27,3.8,2439.97
+20176,Product_20176,Furniture,EcoLife,23092.52,Supplier_17,4.6,39647.06
+20177,Product_20177,Grocery,CloudNine,3556.37,Supplier_103,3.7,6055.13
+20178,Product_20178,Sports,Nova,20321.27,Supplier_30,4.7,38209.88
+20179,Product_20179,Office Supplies,Vision,549.32,Supplier_33,4.7,984.98
+20180,Product_20180,Beauty,Nova,20395.45,Supplier_121,4.6,30536.68
+20181,Product_20181,Fashion,Prime,14643.36,Supplier_14,3.9,21204.22
+20182,Product_20182,Office Supplies,HomeMax,573.95,Supplier_98,5.0,791.1
+20183,Product_20183,Books,TechPro,19377.82,Supplier_2,4.1,33182.57
+20184,Product_20184,Health & Wellness,TechPro,2628.78,Supplier_142,4.1,3756.22
+20185,Product_20185,Grocery,Prime,13543.65,Supplier_108,4.0,16848.72
+20186,Product_20186,Books,EcoLife,8366.9,Supplier_124,3.4,16116.14
+20187,Product_20187,Electronics,TechPro,19003.29,Supplier_100,4.7,25377.11
+20188,Product_20188,Electronics,CloudNine,21345.22,Supplier_61,3.7,27531.56
+20189,Product_20189,Electronics,ProGear,11660.49,Supplier_150,4.5,23256.51
+20190,Product_20190,Furniture,HomeMax,18972.71,Supplier_118,4.6,34970.34
+20191,Product_20191,Beauty,ProGear,22923.96,Supplier_14,4.3,43765.09
+20192,Product_20192,Mobile Accessories,EcoLife,17261.09,Supplier_87,3.6,25561.45
+20193,Product_20193,Furniture,StyleHub,8117.56,Supplier_82,3.8,14254.1
+20194,Product_20194,Pet Supplies,Elite,11636.47,Supplier_43,2.5,24205.72
+20195,Product_20195,Travel,EcoLife,5826.94,Supplier_69,3.9,8222.85
+20196,Product_20196,Footwear,StyleHub,11514.37,Supplier_147,4.4,13713.97
+20197,Product_20197,Garden,EcoLife,6222.67,Supplier_13,3.9,8064.61
+20198,Product_20198,Home Appliances,ProGear,20200.52,Supplier_140,3.7,41297.75
+20199,Product_20199,Electronics,ProGear,15286.94,Supplier_106,3.8,21554.23
+20200,Product_20200,Grocery,EcoLife,15867.83,Supplier_17,4.7,25800.94
+20201,Product_20201,Footwear,Apex,2845.56,Supplier_46,4.0,4753.81
+20202,Product_20202,Mobile Accessories,SmartOne,136.36,Supplier_126,5.0,287.56
+20203,Product_20203,Pet Supplies,HomeMax,19750.75,Supplier_106,3.7,28253.91
+20204,Product_20204,Gaming,Elite,13603.43,Supplier_12,4.1,22541.33
+20205,Product_20205,Footwear,Elite,23295.68,Supplier_23,3.8,49080.92
+20206,Product_20206,Beauty,Nova,13477.26,Supplier_140,5.0,17889.51
+20207,Product_20207,Health & Wellness,CloudNine,5445.5,Supplier_24,4.1,9452.42
+20208,Product_20208,Garden,Elite,17492.07,Supplier_94,5.0,20737.11
+20209,Product_20209,Footwear,Elite,17554.48,Supplier_150,3.8,24415.9
+20210,Product_20210,Jewelry,StyleHub,1731.76,Supplier_25,4.8,2063.03
+20211,Product_20211,Electronics,Zen,17371.91,Supplier_7,4.1,25363.98
+20212,Product_20212,Automotive,SmartOne,5391.95,Supplier_123,4.5,7185.46
+20213,Product_20213,Gaming,Elite,6437.56,Supplier_143,3.3,12504.11
+20214,Product_20214,Books,HomeMax,882.23,Supplier_78,4.2,1409.18
+20215,Product_20215,Kitchen,CloudNine,15721.57,Supplier_35,3.4,24166.41
+20216,Product_20216,Jewelry,Urban,18320.06,Supplier_9,4.1,33582.37
+20217,Product_20217,Kitchen,FreshCart,5839.24,Supplier_137,3.2,12236.8
+20218,Product_20218,Jewelry,Nova,19834.22,Supplier_120,3.9,28374.63
+20219,Product_20219,Travel,FreshCart,19074.58,Supplier_135,4.6,22674.98
+20220,Product_20220,Electronics,CloudNine,10303.18,Supplier_119,4.3,12704.58
+20221,Product_20221,Travel,Vision,1798.81,Supplier_65,3.3,3602.89
+20222,Product_20222,Garden,SmartOne,7076.61,Supplier_73,3.0,14091.16
+20223,Product_20223,Garden,HomeMax,4219.19,Supplier_58,4.3,6791.32
+20224,Product_20224,Grocery,Elite,23974.57,Supplier_110,4.9,30497.39
+20225,Product_20225,Automotive,Prime,20461.83,Supplier_16,3.5,34013.37
+20226,Product_20226,Grocery,Zen,2051.57,Supplier_7,5.0,3710.21
+20227,Product_20227,Pet Supplies,Prime,12885.15,Supplier_145,4.0,18840.71
+20228,Product_20228,Sports,Zen,6745.47,Supplier_48,2.9,8128.25
+20229,Product_20229,Beauty,StyleHub,899.74,Supplier_6,3.1,1306.06
+20230,Product_20230,Jewelry,TechPro,8125.3,Supplier_101,4.4,14879.79
+20231,Product_20231,Electronics,HomeMax,3276.87,Supplier_60,4.1,6972.26
+20232,Product_20232,Grocery,Urban,5646.03,Supplier_35,4.8,7429.01
+20233,Product_20233,Fashion,TechPro,8230.86,Supplier_66,3.3,16971.97
+20234,Product_20234,Grocery,StyleHub,10281.37,Supplier_68,4.1,16350.68
+20235,Product_20235,Sports,Urban,11764.22,Supplier_92,4.0,21212.24
+20236,Product_20236,Mobile Accessories,CloudNine,13052.91,Supplier_140,3.9,26231.26
+20237,Product_20237,Travel,Elite,9313.02,Supplier_133,3.8,15777.97
+20238,Product_20238,Sports,Elite,12508.9,Supplier_125,3.8,14801.85
+20239,Product_20239,Grocery,Nova,10504.68,Supplier_74,4.1,14640.92
+20240,Product_20240,Home Appliances,StyleHub,24114.53,Supplier_84,4.2,46950.82
+20241,Product_20241,Gaming,ProGear,1784.26,Supplier_20,4.1,3014.47
+20242,Product_20242,Travel,TechPro,14690.19,Supplier_87,4.7,21432.2
+20243,Product_20243,Books,Urban,4921.81,Supplier_101,3.3,8469.45
+20244,Product_20244,Beauty,SmartOne,9448.4,Supplier_134,3.0,13195.89
+20245,Product_20245,Books,Nova,13707.0,Supplier_7,4.6,18754.47
+20246,Product_20246,Gaming,SmartOne,19019.26,Supplier_130,3.5,37529.66
+20247,Product_20247,Fashion,HomeMax,24445.5,Supplier_78,3.8,37452.21
+20248,Product_20248,Jewelry,Vision,12391.18,Supplier_14,3.7,17375.02
+20249,Product_20249,Garden,Vision,6498.78,Supplier_150,3.7,10017.56
+20250,Product_20250,Office Supplies,EcoLife,19810.22,Supplier_70,3.2,40972.53
+20251,Product_20251,Travel,EcoLife,5617.15,Supplier_62,3.7,7337.19
+20252,Product_20252,Garden,Nova,12745.23,Supplier_29,4.4,16706.27
+20253,Product_20253,Mobile Accessories,CloudNine,21183.11,Supplier_12,4.0,31443.74
+20254,Product_20254,Fashion,Prime,10154.58,Supplier_13,4.3,12005.27
+20255,Product_20255,Home Appliances,CloudNine,13968.75,Supplier_41,3.7,16722.95
+20256,Product_20256,Automotive,CloudNine,3076.8,Supplier_44,4.5,3480.81
+20257,Product_20257,Sports,Vision,1493.6,Supplier_70,3.7,1897.73
+20258,Product_20258,Electronics,ProGear,24658.43,Supplier_92,2.8,43882.12
+20259,Product_20259,Automotive,Nova,4554.5,Supplier_149,4.2,6022.5
+20260,Product_20260,Home Appliances,CloudNine,8455.17,Supplier_120,4.4,12759.9
+20261,Product_20261,Sports,StyleHub,12666.65,Supplier_73,3.7,23392.17
+20262,Product_20262,Grocery,TechPro,9424.34,Supplier_137,4.7,10864.17
+20263,Product_20263,Travel,Vision,2523.74,Supplier_84,3.5,3370.03
+20264,Product_20264,Jewelry,EcoLife,5003.16,Supplier_64,4.4,10735.6
+20265,Product_20265,Kitchen,TechPro,12386.85,Supplier_33,5.0,21489.58
+20266,Product_20266,Pet Supplies,Zen,11026.16,Supplier_64,4.0,19844.65
+20267,Product_20267,Furniture,Prime,19975.03,Supplier_7,3.9,32989.35
+20268,Product_20268,Footwear,Elite,7863.52,Supplier_23,3.9,16630.32
+20269,Product_20269,Office Supplies,SmartOne,23513.85,Supplier_142,4.9,29830.28
+20270,Product_20270,Health & Wellness,Zen,7141.98,Supplier_30,4.2,8494.63
+20271,Product_20271,Electronics,Vision,8349.34,Supplier_86,5.0,16370.14
+20272,Product_20272,Fashion,Vision,23737.9,Supplier_16,4.2,26686.6
+20273,Product_20273,Fashion,Apex,21028.04,Supplier_91,3.6,35714.21
+20274,Product_20274,Electronics,Apex,7992.5,Supplier_147,3.7,8963.23
+20275,Product_20275,Jewelry,Urban,9942.59,Supplier_69,4.0,14702.03
+20276,Product_20276,Mobile Accessories,Prime,21072.28,Supplier_20,2.9,37728.09
+20277,Product_20277,Pet Supplies,FreshCart,2243.63,Supplier_4,3.7,3777.7
+20278,Product_20278,Automotive,Apex,7437.44,Supplier_114,3.8,12618.79
+20279,Product_20279,Office Supplies,FreshCart,13335.75,Supplier_16,4.1,17097.32
+20280,Product_20280,Books,StyleHub,20739.71,Supplier_48,5.0,29524.53
+20281,Product_20281,Gaming,Prime,14158.96,Supplier_127,4.0,26212.91
+20282,Product_20282,Footwear,FreshCart,12295.49,Supplier_81,2.9,14065.99
+20283,Product_20283,Automotive,Apex,24056.73,Supplier_131,3.5,41693.72
+20284,Product_20284,Electronics,CloudNine,2998.62,Supplier_131,4.1,4955.45
+20285,Product_20285,Pet Supplies,Nova,19523.64,Supplier_100,4.1,28783.23
+20286,Product_20286,Automotive,SmartOne,3263.17,Supplier_141,4.9,4779.95
+20287,Product_20287,Furniture,Zen,18347.4,Supplier_6,4.5,35647.45
+20288,Product_20288,Pet Supplies,EcoLife,13622.93,Supplier_37,4.5,20617.72
+20289,Product_20289,Gaming,FreshCart,6689.69,Supplier_42,3.9,8042.72
+20290,Product_20290,Mobile Accessories,ProGear,13629.09,Supplier_137,4.6,28769.65
+20291,Product_20291,Pet Supplies,Zen,21997.46,Supplier_94,3.5,27590.98
+20292,Product_20292,Health & Wellness,Nova,11857.37,Supplier_38,4.5,23019.63
+20293,Product_20293,Grocery,Zen,263.81,Supplier_32,3.8,299.26
+20294,Product_20294,Kitchen,FreshCart,1509.48,Supplier_121,3.2,2257.17
+20295,Product_20295,Office Supplies,StyleHub,15852.66,Supplier_129,4.3,26166.97
+20296,Product_20296,Books,ProGear,16980.5,Supplier_3,4.8,19539.05
+20297,Product_20297,Jewelry,StyleHub,10104.19,Supplier_55,3.8,18956.56
+20298,Product_20298,Electronics,StyleHub,6145.23,Supplier_81,4.9,8532.03
+20299,Product_20299,Garden,Nova,17927.57,Supplier_36,3.1,30071.77
+20300,Product_20300,Garden,Nova,7673.61,Supplier_109,3.3,14856.86
+20301,Product_20301,Fashion,Vision,1942.89,Supplier_114,3.9,3358.96
+20302,Product_20302,Books,Urban,10299.3,Supplier_126,3.8,16368.49
+20303,Product_20303,Fashion,TechPro,13524.55,Supplier_118,3.6,19829.64
+20304,Product_20304,Grocery,TechPro,24144.16,Supplier_127,4.1,28163.16
+20305,Product_20305,Footwear,SmartOne,14846.32,Supplier_55,3.7,30589.53
+20306,Product_20306,Travel,CloudNine,5287.17,Supplier_45,3.8,9145.16
+20307,Product_20307,Jewelry,ProGear,20821.62,Supplier_48,4.2,36864.3
+20308,Product_20308,Pet Supplies,SmartOne,7357.9,Supplier_128,3.6,11579.33
+20309,Product_20309,Office Supplies,FreshCart,23986.03,Supplier_98,3.9,36072.44
+20310,Product_20310,Health & Wellness,StyleHub,8200.28,Supplier_49,3.6,9578.37
+20311,Product_20311,Furniture,Apex,22747.0,Supplier_109,3.3,29436.01
+20312,Product_20312,Pet Supplies,StyleHub,21985.95,Supplier_36,4.4,34261.03
+20313,Product_20313,Office Supplies,CloudNine,21613.42,Supplier_40,4.9,29587.82
+20314,Product_20314,Home Appliances,ProGear,1080.69,Supplier_1,4.6,1259.84
+20315,Product_20315,Mobile Accessories,TechPro,21261.76,Supplier_145,4.2,35770.67
+20316,Product_20316,Office Supplies,Zen,18060.37,Supplier_36,3.6,28861.14
+20317,Product_20317,Grocery,Elite,8424.03,Supplier_113,3.8,13091.06
+20318,Product_20318,Beauty,Prime,12303.45,Supplier_18,4.6,23718.05
+20319,Product_20319,Grocery,Elite,16033.88,Supplier_6,2.7,27859.09
+20320,Product_20320,Travel,Vision,23594.07,Supplier_102,3.8,26459.75
+20321,Product_20321,Grocery,FreshCart,19524.1,Supplier_15,4.4,37188.87
+20322,Product_20322,Grocery,Zen,10769.67,Supplier_22,3.4,17415.26
+20323,Product_20323,Grocery,SmartOne,16170.98,Supplier_50,4.2,26719.61
+20324,Product_20324,Mobile Accessories,Zen,4728.18,Supplier_88,4.2,9627.8
+20325,Product_20325,Electronics,Nova,10656.17,Supplier_3,3.2,13133.69
+20326,Product_20326,Sports,HomeMax,19803.4,Supplier_19,4.0,34406.15
+20327,Product_20327,Electronics,CloudNine,15204.08,Supplier_51,3.7,21447.25
+20328,Product_20328,Office Supplies,Urban,19602.9,Supplier_106,4.2,22696.49
+20329,Product_20329,Sports,Apex,12794.44,Supplier_15,4.4,20093.71
+20330,Product_20330,Toys,Elite,9565.57,Supplier_43,4.2,13507.75
+20331,Product_20331,Beauty,Elite,18589.26,Supplier_29,4.0,20848.56
+20332,Product_20332,Office Supplies,FreshCart,2434.5,Supplier_47,4.2,3962.72
+20333,Product_20333,Sports,CloudNine,24467.31,Supplier_39,3.4,35244.11
+20334,Product_20334,Electronics,CloudNine,23714.51,Supplier_97,4.0,37164.12
+20335,Product_20335,Books,Elite,22021.18,Supplier_11,3.6,24929.81
+20336,Product_20336,Furniture,CloudNine,22118.52,Supplier_141,4.6,33926.17
+20337,Product_20337,Automotive,ProGear,12825.3,Supplier_37,4.4,20578.41
+20338,Product_20338,Automotive,Zen,12498.85,Supplier_149,4.4,19998.18
+20339,Product_20339,Books,HomeMax,20520.05,Supplier_110,4.9,38135.16
+20340,Product_20340,Grocery,TechPro,7153.09,Supplier_54,3.8,15314.95
+20341,Product_20341,Automotive,StyleHub,21262.85,Supplier_46,3.7,24424.6
+20342,Product_20342,Jewelry,Vision,5101.92,Supplier_142,3.8,7795.26
+20343,Product_20343,Travel,Urban,21989.77,Supplier_150,3.1,44032.73
+20344,Product_20344,Gaming,Nova,13573.02,Supplier_92,3.2,23949.15
+20345,Product_20345,Mobile Accessories,SmartOne,21095.95,Supplier_8,4.3,44999.97
+20346,Product_20346,Jewelry,CloudNine,12379.26,Supplier_136,3.2,22961.28
+20347,Product_20347,Mobile Accessories,FreshCart,15249.96,Supplier_72,3.4,28456.04
+20348,Product_20348,Sports,Nova,23176.97,Supplier_5,3.9,27774.52
+20349,Product_20349,Health & Wellness,EcoLife,10513.49,Supplier_121,3.8,14755.81
+20350,Product_20350,Toys,StyleHub,5585.13,Supplier_5,4.5,9613.82
+20351,Product_20351,Pet Supplies,HomeMax,2365.41,Supplier_56,4.0,3922.0
+20352,Product_20352,Garden,Vision,14790.48,Supplier_12,3.6,28182.8
+20353,Product_20353,Gaming,HomeMax,15316.02,Supplier_66,4.5,32829.39
+20354,Product_20354,Jewelry,Elite,15555.56,Supplier_121,4.4,20735.69
+20355,Product_20355,Jewelry,Elite,1025.44,Supplier_20,3.2,1600.97
+20356,Product_20356,Pet Supplies,SmartOne,782.65,Supplier_21,4.1,1575.35
+20357,Product_20357,Fashion,HomeMax,22395.88,Supplier_144,3.6,44417.61
+20358,Product_20358,Beauty,EcoLife,17418.0,Supplier_27,3.6,34169.05
+20359,Product_20359,Beauty,Elite,2921.6,Supplier_17,5.0,5139.11
+20360,Product_20360,Health & Wellness,Zen,1958.46,Supplier_88,4.1,4196.96
+20361,Product_20361,Grocery,Elite,4130.24,Supplier_42,3.9,6148.44
+20362,Product_20362,Home Appliances,EcoLife,20192.28,Supplier_144,4.0,25034.06
+20363,Product_20363,Office Supplies,Nova,18104.84,Supplier_25,4.5,22749.4
+20364,Product_20364,Health & Wellness,ProGear,16002.46,Supplier_86,3.6,25104.06
+20365,Product_20365,Automotive,Urban,16055.69,Supplier_139,3.7,31294.12
+20366,Product_20366,Travel,StyleHub,21485.96,Supplier_110,4.4,34086.01
+20367,Product_20367,Office Supplies,CloudNine,8403.12,Supplier_5,3.2,14703.15
+20368,Product_20368,Garden,ProGear,8123.53,Supplier_29,4.5,12094.0
+20369,Product_20369,Footwear,Vision,10693.13,Supplier_19,3.1,19849.4
+20370,Product_20370,Home Appliances,Prime,24742.93,Supplier_138,3.9,31614.93
+20371,Product_20371,Beauty,FreshCart,13916.98,Supplier_31,3.1,23042.61
+20372,Product_20372,Pet Supplies,TechPro,13717.84,Supplier_9,3.4,17979.75
+20373,Product_20373,Garden,Nova,20258.89,Supplier_58,4.7,32467.91
+20374,Product_20374,Home Appliances,CloudNine,4533.81,Supplier_43,4.6,7088.2
+20375,Product_20375,Travel,Apex,10194.49,Supplier_25,4.6,17765.93
+20376,Product_20376,Books,Zen,16069.92,Supplier_69,3.2,26432.31
+20377,Product_20377,Pet Supplies,Apex,24701.62,Supplier_136,3.4,52491.27
+20378,Product_20378,Jewelry,SmartOne,3946.29,Supplier_34,4.2,8079.32
+20379,Product_20379,Mobile Accessories,Elite,11355.47,Supplier_148,4.4,16157.7
+20380,Product_20380,Books,StyleHub,22648.99,Supplier_100,3.6,28193.74
+20381,Product_20381,Mobile Accessories,Elite,18165.72,Supplier_58,3.7,21557.16
+20382,Product_20382,Beauty,CloudNine,15383.13,Supplier_102,3.4,20366.24
+20383,Product_20383,Office Supplies,Elite,6502.0,Supplier_53,4.9,8769.71
+20384,Product_20384,Jewelry,Apex,4761.55,Supplier_32,3.7,9691.38
+20385,Product_20385,Health & Wellness,Urban,9417.89,Supplier_36,4.0,19519.39
+20386,Product_20386,Jewelry,Zen,6452.19,Supplier_2,4.0,8758.1
+20387,Product_20387,Electronics,SmartOne,20231.05,Supplier_98,4.6,38469.2
+20388,Product_20388,Automotive,FreshCart,18045.52,Supplier_12,3.5,35745.23
+20389,Product_20389,Books,Zen,20896.43,Supplier_30,4.6,31529.28
+20390,Product_20390,Toys,SmartOne,4359.95,Supplier_1,3.3,8797.25
+20391,Product_20391,Fashion,Apex,7818.24,Supplier_10,4.6,16717.84
+20392,Product_20392,Health & Wellness,EcoLife,19236.93,Supplier_136,3.1,40721.29
+20393,Product_20393,Kitchen,ProGear,4172.36,Supplier_4,3.9,7861.41
+20394,Product_20394,Sports,TechPro,3725.57,Supplier_94,4.9,5598.83
+20395,Product_20395,Mobile Accessories,Apex,9638.17,Supplier_50,4.4,13048.31
+20396,Product_20396,Mobile Accessories,HomeMax,4742.28,Supplier_21,4.2,10161.08
+20397,Product_20397,Grocery,ProGear,2064.68,Supplier_45,3.4,2899.76
+20398,Product_20398,Toys,CloudNine,7888.09,Supplier_14,3.6,12396.4
+20399,Product_20399,Gaming,SmartOne,21902.43,Supplier_47,4.7,30489.24
+20400,Product_20400,Health & Wellness,Vision,1507.67,Supplier_123,4.3,2459.01
+20401,Product_20401,Books,HomeMax,14196.02,Supplier_94,4.5,17513.52
+20402,Product_20402,Footwear,Elite,14118.8,Supplier_122,4.0,27578.65
+20403,Product_20403,Furniture,Elite,13317.93,Supplier_105,3.8,21844.87
+20404,Product_20404,Home Appliances,CloudNine,12687.17,Supplier_140,4.4,19691.6
+20405,Product_20405,Mobile Accessories,FreshCart,529.19,Supplier_17,4.1,790.63
+20406,Product_20406,Garden,EcoLife,1281.53,Supplier_24,3.9,2200.61
+20407,Product_20407,Electronics,CloudNine,12829.05,Supplier_62,3.2,24673.92
+20408,Product_20408,Travel,SmartOne,24210.9,Supplier_79,4.5,49623.58
+20409,Product_20409,Automotive,SmartOne,10258.6,Supplier_118,4.2,20381.42
+20410,Product_20410,Kitchen,SmartOne,11860.94,Supplier_19,3.7,18726.98
+20411,Product_20411,Gaming,Apex,24553.37,Supplier_17,4.6,48591.41
+20412,Product_20412,Office Supplies,FreshCart,19499.92,Supplier_120,4.1,32457.11
+20413,Product_20413,Home Appliances,TechPro,19275.74,Supplier_83,4.1,34259.23
+20414,Product_20414,Gaming,SmartOne,12667.91,Supplier_62,4.5,22989.69
+20415,Product_20415,Furniture,FreshCart,22458.03,Supplier_34,4.4,34398.34
+20416,Product_20416,Automotive,Prime,14571.29,Supplier_105,4.2,23614.74
+20417,Product_20417,Kitchen,Zen,16451.76,Supplier_121,3.9,30162.11
+20418,Product_20418,Fashion,CloudNine,19710.13,Supplier_5,5.0,28326.73
+20419,Product_20419,Kitchen,TechPro,10223.96,Supplier_9,3.6,19316.34
+20420,Product_20420,Kitchen,SmartOne,23836.43,Supplier_117,4.4,35390.57
+20421,Product_20421,Gaming,EcoLife,24701.38,Supplier_133,4.0,42561.82
+20422,Product_20422,Garden,Elite,14719.73,Supplier_35,4.3,29185.57
+20423,Product_20423,Grocery,StyleHub,5629.18,Supplier_106,4.7,6439.23
+20424,Product_20424,Jewelry,HomeMax,19395.06,Supplier_127,3.8,26523.72
+20425,Product_20425,Pet Supplies,Nova,8121.25,Supplier_17,4.3,13789.9
+20426,Product_20426,Electronics,StyleHub,14469.88,Supplier_28,4.1,17787.61
+20427,Product_20427,Jewelry,EcoLife,2258.92,Supplier_20,3.6,3008.36
+20428,Product_20428,Garden,Vision,20204.03,Supplier_119,4.7,38217.18
+20429,Product_20429,Home Appliances,ProGear,23981.27,Supplier_116,4.4,27496.87
+20430,Product_20430,Office Supplies,ProGear,2446.12,Supplier_21,3.8,4276.64
+20431,Product_20431,Mobile Accessories,HomeMax,18316.82,Supplier_27,4.6,21159.26
+20432,Product_20432,Sports,Prime,21534.89,Supplier_100,3.5,26690.37
+20433,Product_20433,Pet Supplies,Urban,2826.7,Supplier_135,4.0,4302.38
+20434,Product_20434,Gaming,HomeMax,6245.23,Supplier_117,3.8,13200.62
+20435,Product_20435,Health & Wellness,CloudNine,9857.59,Supplier_26,4.4,16582.66
+20436,Product_20436,Health & Wellness,ProGear,20935.33,Supplier_58,3.7,30180.18
+20437,Product_20437,Footwear,Elite,12386.44,Supplier_10,4.4,19120.53
+20438,Product_20438,Pet Supplies,CloudNine,3510.39,Supplier_37,4.3,5988.15
+20439,Product_20439,Jewelry,Prime,6483.64,Supplier_85,3.8,11398.23
+20440,Product_20440,Garden,Nova,11737.71,Supplier_52,5.0,16385.14
+20441,Product_20441,Kitchen,EcoLife,1077.68,Supplier_92,3.6,1426.0
+20442,Product_20442,Electronics,Urban,15811.83,Supplier_45,3.2,25775.95
+20443,Product_20443,Toys,Elite,730.52,Supplier_85,4.5,1303.39
+20444,Product_20444,Office Supplies,HomeMax,19543.7,Supplier_95,2.8,38326.71
+20445,Product_20445,Office Supplies,Nova,18372.89,Supplier_30,4.8,31795.74
+20446,Product_20446,Grocery,Urban,21649.46,Supplier_7,4.1,39687.94
+20447,Product_20447,Furniture,TechPro,4027.05,Supplier_51,3.2,6517.77
+20448,Product_20448,Travel,Nova,15104.37,Supplier_7,3.5,25733.63
+20449,Product_20449,Pet Supplies,Zen,19547.59,Supplier_24,3.1,34687.41
+20450,Product_20450,Travel,EcoLife,12942.14,Supplier_44,4.2,17645.59
+20451,Product_20451,Jewelry,Elite,3357.03,Supplier_51,3.3,6989.66
+20452,Product_20452,Pet Supplies,SmartOne,2563.25,Supplier_42,4.3,3782.59
+20453,Product_20453,Sports,Prime,15186.85,Supplier_9,3.8,26468.08
+20454,Product_20454,Office Supplies,HomeMax,12490.43,Supplier_27,3.7,21206.04
+20455,Product_20455,Books,ProGear,23246.05,Supplier_133,4.3,46467.59
+20456,Product_20456,Office Supplies,TechPro,20862.64,Supplier_108,4.3,25807.35
+20457,Product_20457,Home Appliances,EcoLife,18121.35,Supplier_67,4.6,36800.08
+20458,Product_20458,Footwear,CloudNine,24561.68,Supplier_4,3.7,30975.36
+20459,Product_20459,Fashion,Apex,17395.81,Supplier_54,4.0,22072.96
+20460,Product_20460,Sports,StyleHub,2399.83,Supplier_139,3.7,4819.15
+20461,Product_20461,Pet Supplies,SmartOne,2031.32,Supplier_122,4.1,2813.0
+20462,Product_20462,Home Appliances,ProGear,20415.14,Supplier_114,3.6,35729.35
+20463,Product_20463,Health & Wellness,FreshCart,9081.52,Supplier_38,3.8,14507.9
+20464,Product_20464,Pet Supplies,Zen,23114.67,Supplier_61,3.8,48131.54
+20465,Product_20465,Jewelry,StyleHub,3044.36,Supplier_5,4.2,5862.06
+20466,Product_20466,Kitchen,FreshCart,5049.8,Supplier_129,4.0,7398.18
+20467,Product_20467,Home Appliances,FreshCart,19351.87,Supplier_17,4.3,37887.94
+20468,Product_20468,Kitchen,FreshCart,21202.11,Supplier_93,3.9,28677.17
+20469,Product_20469,Fashion,Vision,21693.19,Supplier_43,3.7,38050.69
+20470,Product_20470,Fashion,Zen,2568.57,Supplier_86,4.1,4865.21
+20471,Product_20471,Travel,TechPro,9606.88,Supplier_125,3.5,17717.52
+20472,Product_20472,Kitchen,SmartOne,16195.02,Supplier_47,4.3,29092.45
+20473,Product_20473,Gaming,Urban,22978.01,Supplier_3,3.8,45378.53
+20474,Product_20474,Books,Vision,6051.47,Supplier_100,4.1,10244.5
+20475,Product_20475,Grocery,StyleHub,15048.54,Supplier_80,4.1,31243.75
+20476,Product_20476,Gaming,HomeMax,3673.63,Supplier_21,4.9,4662.4
+20477,Product_20477,Kitchen,TechPro,18707.24,Supplier_8,4.2,27806.06
+20478,Product_20478,Travel,ProGear,3275.36,Supplier_79,4.0,6309.92
+20479,Product_20479,Electronics,HomeMax,24999.56,Supplier_93,3.6,35931.8
+20480,Product_20480,Toys,Zen,2397.45,Supplier_18,4.4,3778.95
+20481,Product_20481,Pet Supplies,TechPro,17164.9,Supplier_90,3.9,32889.08
+20482,Product_20482,Pet Supplies,StyleHub,19448.27,Supplier_67,3.2,32570.54
+20483,Product_20483,Health & Wellness,SmartOne,6523.95,Supplier_21,3.9,8567.55
+20484,Product_20484,Furniture,CloudNine,6445.23,Supplier_93,4.1,8379.34
+20485,Product_20485,Toys,TechPro,14944.06,Supplier_97,3.5,21374.03
+20486,Product_20486,Home Appliances,Apex,15798.82,Supplier_24,3.9,22625.54
+20487,Product_20487,Pet Supplies,CloudNine,18041.1,Supplier_102,4.0,22745.76
+20488,Product_20488,Kitchen,Apex,14549.32,Supplier_34,4.0,28803.3
+20489,Product_20489,Furniture,Elite,4444.22,Supplier_90,4.7,6271.26
+20490,Product_20490,Health & Wellness,Apex,23111.17,Supplier_122,3.3,44981.59
+20491,Product_20491,Health & Wellness,TechPro,4248.63,Supplier_141,5.0,9018.37
+20492,Product_20492,Mobile Accessories,CloudNine,14174.44,Supplier_39,4.0,20721.9
+20493,Product_20493,Mobile Accessories,Apex,23008.07,Supplier_51,4.3,48761.88
+20494,Product_20494,Fashion,Apex,22832.94,Supplier_15,4.1,30069.54
+20495,Product_20495,Mobile Accessories,SmartOne,4280.87,Supplier_146,3.1,7649.39
+20496,Product_20496,Toys,Apex,6041.21,Supplier_50,3.4,12933.72
+20497,Product_20497,Travel,Nova,15086.08,Supplier_121,3.7,29457.43
+20498,Product_20498,Mobile Accessories,Vision,8495.39,Supplier_141,4.5,11524.78
+20499,Product_20499,Kitchen,CloudNine,18298.99,Supplier_72,3.2,25345.06
+20500,Product_20500,Sports,ProGear,13107.87,Supplier_105,3.5,18223.92
+20501,Product_20501,Pet Supplies,CloudNine,6725.64,Supplier_71,4.1,14065.21
+20502,Product_20502,Books,StyleHub,10334.84,Supplier_87,4.3,14187.4
+20503,Product_20503,Jewelry,SmartOne,17308.67,Supplier_38,4.2,28471.1
+20504,Product_20504,Garden,CloudNine,19650.02,Supplier_127,3.5,29089.61
+20505,Product_20505,Home Appliances,StyleHub,9302.07,Supplier_19,3.1,13879.69
+20506,Product_20506,Beauty,Nova,2714.14,Supplier_100,4.3,4181.04
+20507,Product_20507,Footwear,Urban,8896.6,Supplier_138,4.8,13126.01
+20508,Product_20508,Furniture,SmartOne,15798.72,Supplier_122,3.8,27457.0
+20509,Product_20509,Kitchen,FreshCart,19019.82,Supplier_114,3.4,29637.36
+20510,Product_20510,Electronics,SmartOne,22003.52,Supplier_99,3.8,34638.86
+20511,Product_20511,Grocery,HomeMax,24052.35,Supplier_142,4.2,39474.09
+20512,Product_20512,Home Appliances,Zen,13281.17,Supplier_130,3.9,19747.29
+20513,Product_20513,Kitchen,Vision,22017.17,Supplier_42,4.8,41770.9
+20514,Product_20514,Office Supplies,Elite,6625.74,Supplier_94,4.5,10856.85
+20515,Product_20515,Books,Zen,14035.33,Supplier_65,4.1,23080.92
+20516,Product_20516,Sports,EcoLife,13530.68,Supplier_40,2.9,18078.89
+20517,Product_20517,Sports,HomeMax,19240.48,Supplier_123,3.6,22160.45
+20518,Product_20518,Furniture,Urban,19350.76,Supplier_7,3.7,37802.74
+20519,Product_20519,Grocery,HomeMax,7205.04,Supplier_20,3.6,14418.34
+20520,Product_20520,Garden,Prime,22157.95,Supplier_16,4.1,30322.8
+20521,Product_20521,Electronics,StyleHub,22298.18,Supplier_31,4.1,33242.87
+20522,Product_20522,Office Supplies,Prime,23711.21,Supplier_77,3.1,35300.26
+20523,Product_20523,Furniture,StyleHub,11495.34,Supplier_142,4.4,20975.99
+20524,Product_20524,Home Appliances,Elite,24686.62,Supplier_146,4.0,32409.9
+20525,Product_20525,Footwear,Apex,19644.29,Supplier_136,4.2,41804.52
+20526,Product_20526,Footwear,Urban,16364.37,Supplier_114,4.4,19370.79
+20527,Product_20527,Beauty,Vision,10863.22,Supplier_69,3.6,23062.4
+20528,Product_20528,Pet Supplies,Elite,21076.54,Supplier_117,4.7,25098.9
+20529,Product_20529,Garden,CloudNine,19127.03,Supplier_41,3.9,27677.57
+20530,Product_20530,Jewelry,Prime,14680.4,Supplier_100,4.8,20232.73
+20531,Product_20531,Home Appliances,Urban,24928.93,Supplier_2,3.5,34586.98
+20532,Product_20532,Garden,CloudNine,6311.59,Supplier_136,4.8,13535.27
+20533,Product_20533,Pet Supplies,StyleHub,16079.68,Supplier_146,3.5,25600.5
+20534,Product_20534,Mobile Accessories,FreshCart,8096.07,Supplier_111,5.0,10064.19
+20535,Product_20535,Grocery,Nova,11500.3,Supplier_27,3.5,24515.75
+20536,Product_20536,Office Supplies,Prime,8539.77,Supplier_39,4.6,11699.02
+20537,Product_20537,Mobile Accessories,Urban,8430.42,Supplier_111,3.8,10072.02
+20538,Product_20538,Mobile Accessories,Prime,9482.97,Supplier_75,4.4,10857.11
+20539,Product_20539,Kitchen,Elite,1511.32,Supplier_83,4.0,2413.77
+20540,Product_20540,Beauty,FreshCart,1092.54,Supplier_61,3.4,2257.06
+20541,Product_20541,Sports,TechPro,18150.56,Supplier_126,2.5,20645.7
+20542,Product_20542,Office Supplies,Prime,7841.62,Supplier_25,5.0,14639.77
+20543,Product_20543,Toys,Prime,628.24,Supplier_67,4.0,872.14
+20544,Product_20544,Health & Wellness,Urban,2128.88,Supplier_34,2.4,2864.69
+20545,Product_20545,Home Appliances,Vision,4976.65,Supplier_104,4.2,9181.44
+20546,Product_20546,Electronics,FreshCart,1300.49,Supplier_43,4.4,2458.33
+20547,Product_20547,Footwear,EcoLife,23659.07,Supplier_45,3.6,40120.71
+20548,Product_20548,Fashion,Elite,14252.19,Supplier_27,3.6,18931.51
+20549,Product_20549,Beauty,Elite,9911.21,Supplier_130,4.0,11164.95
+20550,Product_20550,Office Supplies,ProGear,13364.53,Supplier_33,4.7,25117.25
+20551,Product_20551,Furniture,Prime,2909.22,Supplier_131,4.1,5055.07
+20552,Product_20552,Home Appliances,Elite,17575.95,Supplier_138,4.8,27334.52
+20553,Product_20553,Fashion,Elite,24242.8,Supplier_145,4.6,32485.1
+20554,Product_20554,Beauty,EcoLife,3353.36,Supplier_52,3.9,6387.45
+20555,Product_20555,Furniture,EcoLife,3899.74,Supplier_99,3.1,4652.48
+20556,Product_20556,Furniture,ProGear,15753.72,Supplier_125,3.9,28072.87
+20557,Product_20557,Automotive,EcoLife,3883.06,Supplier_12,4.3,7102.31
+20558,Product_20558,Home Appliances,TechPro,3238.71,Supplier_10,4.0,4372.11
+20559,Product_20559,Furniture,Vision,16795.05,Supplier_32,4.3,27171.45
+20560,Product_20560,Pet Supplies,ProGear,15504.57,Supplier_148,4.5,25672.55
+20561,Product_20561,Electronics,Apex,5521.65,Supplier_14,4.3,9547.05
+20562,Product_20562,Mobile Accessories,Vision,20597.16,Supplier_115,3.8,42187.59
+20563,Product_20563,Mobile Accessories,Apex,2720.75,Supplier_126,4.3,4578.5
+20564,Product_20564,Toys,EcoLife,8381.11,Supplier_137,5.0,9967.97
+20565,Product_20565,Jewelry,Prime,18497.8,Supplier_80,3.2,27290.19
+20566,Product_20566,Jewelry,CloudNine,15386.14,Supplier_79,4.3,27190.03
+20567,Product_20567,Jewelry,Vision,15041.77,Supplier_112,5.0,22008.14
+20568,Product_20568,Mobile Accessories,StyleHub,17188.23,Supplier_96,3.4,32846.34
+20569,Product_20569,Beauty,StyleHub,16196.92,Supplier_118,4.6,21308.71
+20570,Product_20570,Kitchen,SmartOne,21869.34,Supplier_55,4.6,27714.91
+20571,Product_20571,Jewelry,Prime,14262.31,Supplier_141,3.2,19367.7
+20572,Product_20572,Beauty,StyleHub,10091.98,Supplier_65,4.4,20409.69
+20573,Product_20573,Pet Supplies,Vision,19175.62,Supplier_38,3.9,34925.76
+20574,Product_20574,Pet Supplies,Urban,6555.07,Supplier_113,4.0,10852.9
+20575,Product_20575,Office Supplies,StyleHub,19013.84,Supplier_94,3.8,27177.38
+20576,Product_20576,Office Supplies,Zen,7071.6,Supplier_8,4.7,14610.98
+20577,Product_20577,Gaming,Apex,12061.48,Supplier_25,3.9,24550.42
+20578,Product_20578,Office Supplies,CloudNine,18505.91,Supplier_6,3.7,28339.63
+20579,Product_20579,Automotive,EcoLife,15728.72,Supplier_87,3.8,29810.73
+20580,Product_20580,Grocery,TechPro,2233.66,Supplier_132,3.8,4603.51
+20581,Product_20581,Grocery,TechPro,11219.34,Supplier_49,3.4,16186.75
+20582,Product_20582,Pet Supplies,Vision,20315.2,Supplier_17,3.7,29631.34
+20583,Product_20583,Footwear,Prime,24919.45,Supplier_128,4.1,41919.01
+20584,Product_20584,Kitchen,EcoLife,11723.27,Supplier_109,4.2,18061.08
+20585,Product_20585,Toys,Urban,2239.55,Supplier_82,4.7,4264.83
+20586,Product_20586,Grocery,Elite,9218.02,Supplier_30,4.1,15422.1
+20587,Product_20587,Books,ProGear,12299.08,Supplier_101,3.7,16458.77
+20588,Product_20588,Mobile Accessories,ProGear,1928.37,Supplier_55,3.4,2867.64
+20589,Product_20589,Health & Wellness,Apex,21620.05,Supplier_37,4.2,39162.04
+20590,Product_20590,Mobile Accessories,Prime,13515.9,Supplier_45,3.9,15881.69
+20591,Product_20591,Mobile Accessories,HomeMax,10461.28,Supplier_10,4.0,15403.53
+20592,Product_20592,Footwear,TechPro,9989.89,Supplier_74,4.1,11354.3
+20593,Product_20593,Toys,Vision,804.88,Supplier_113,4.3,1581.99
+20594,Product_20594,Footwear,Vision,13020.0,Supplier_124,4.1,16153.99
+20595,Product_20595,Travel,TechPro,11941.84,Supplier_109,3.9,14324.49
+20596,Product_20596,Garden,Apex,8712.54,Supplier_132,3.6,16816.86
+20597,Product_20597,Grocery,Zen,16501.06,Supplier_145,3.7,20002.45
+20598,Product_20598,Gaming,StyleHub,10334.7,Supplier_34,4.5,18858.66
+20599,Product_20599,Mobile Accessories,Urban,14336.92,Supplier_66,3.8,21666.81
+20600,Product_20600,Home Appliances,Zen,22137.56,Supplier_51,3.3,43530.2
+20601,Product_20601,Beauty,Urban,9160.78,Supplier_103,4.6,11985.39
+20602,Product_20602,Garden,Nova,10008.3,Supplier_126,3.5,12079.51
+20603,Product_20603,Toys,SmartOne,21661.01,Supplier_134,4.0,29356.29
+20604,Product_20604,Health & Wellness,CloudNine,9016.54,Supplier_14,4.3,18755.3
+20605,Product_20605,Jewelry,CloudNine,11040.14,Supplier_78,4.0,21793.18
+20606,Product_20606,Books,Elite,20040.22,Supplier_18,2.6,28344.1
+20607,Product_20607,Garden,SmartOne,14837.49,Supplier_50,4.2,19767.95
+20608,Product_20608,Gaming,ProGear,23353.76,Supplier_72,4.7,29928.94
+20609,Product_20609,Sports,Nova,11819.51,Supplier_93,4.4,15930.8
+20610,Product_20610,Health & Wellness,Urban,12027.76,Supplier_119,2.8,16011.3
+20611,Product_20611,Kitchen,Vision,1168.92,Supplier_150,5.0,2378.56
+20612,Product_20612,Automotive,CloudNine,5012.85,Supplier_51,3.3,5717.58
+20613,Product_20613,Home Appliances,Elite,13545.98,Supplier_84,3.4,27451.28
+20614,Product_20614,Fashion,SmartOne,4759.05,Supplier_11,4.4,5533.19
+20615,Product_20615,Gaming,Prime,11394.23,Supplier_17,4.2,22465.32
+20616,Product_20616,Fashion,CloudNine,7154.6,Supplier_146,4.0,11150.58
+20617,Product_20617,Jewelry,Zen,618.25,Supplier_141,3.7,741.6
+20618,Product_20618,Garden,Nova,11930.22,Supplier_141,4.7,23180.12
+20619,Product_20619,Kitchen,ProGear,16192.12,Supplier_40,4.0,22412.05
+20620,Product_20620,Fashion,Apex,8522.02,Supplier_98,3.1,17251.71
+20621,Product_20621,Travel,Zen,19435.52,Supplier_35,4.7,36826.92
+20622,Product_20622,Electronics,Vision,3736.74,Supplier_103,4.1,7963.83
+20623,Product_20623,Health & Wellness,CloudNine,2373.16,Supplier_73,4.6,4691.33
+20624,Product_20624,Footwear,Elite,23377.55,Supplier_141,4.3,31984.94
+20625,Product_20625,Kitchen,Apex,23049.25,Supplier_57,5.0,35530.23
+20626,Product_20626,Books,Apex,10222.95,Supplier_97,3.8,18784.97
+20627,Product_20627,Automotive,FreshCart,10556.3,Supplier_99,4.0,15259.63
+20628,Product_20628,Grocery,Zen,21290.79,Supplier_119,4.4,35830.24
+20629,Product_20629,Toys,Prime,13309.98,Supplier_8,3.8,18165.15
+20630,Product_20630,Garden,EcoLife,3016.13,Supplier_70,4.4,5437.6
+20631,Product_20631,Pet Supplies,SmartOne,2960.35,Supplier_68,2.4,4358.81
+20632,Product_20632,Sports,CloudNine,3365.16,Supplier_35,4.0,3960.23
+20633,Product_20633,Garden,StyleHub,19541.05,Supplier_121,3.9,41364.64
+20634,Product_20634,Travel,ProGear,15087.22,Supplier_125,3.9,30011.81
+20635,Product_20635,Kitchen,EcoLife,7564.18,Supplier_13,3.5,10838.17
+20636,Product_20636,Automotive,Elite,4135.63,Supplier_103,4.5,5184.07
+20637,Product_20637,Electronics,StyleHub,3174.24,Supplier_130,3.7,5958.95
+20638,Product_20638,Toys,Vision,18560.55,Supplier_44,4.1,25006.5
+20639,Product_20639,Fashion,CloudNine,22157.98,Supplier_95,4.0,38635.05
+20640,Product_20640,Furniture,Elite,13323.85,Supplier_94,4.3,25614.46
+20641,Product_20641,Travel,HomeMax,19340.48,Supplier_3,4.8,27088.21
+20642,Product_20642,Footwear,StyleHub,7149.9,Supplier_123,4.1,10104.07
+20643,Product_20643,Kitchen,EcoLife,14683.03,Supplier_113,4.5,17376.79
+20644,Product_20644,Travel,Prime,11007.17,Supplier_41,4.1,15954.27
+20645,Product_20645,Automotive,Urban,2283.59,Supplier_48,3.7,3962.88
+20646,Product_20646,Office Supplies,Vision,12235.43,Supplier_116,3.9,15667.11
+20647,Product_20647,Office Supplies,Prime,21184.99,Supplier_121,3.8,44523.97
+20648,Product_20648,Sports,SmartOne,1389.38,Supplier_11,4.3,2589.93
+20649,Product_20649,Garden,StyleHub,11979.94,Supplier_54,4.1,15933.53
+20650,Product_20650,Garden,StyleHub,21844.25,Supplier_94,3.6,36404.21
+20651,Product_20651,Beauty,FreshCart,19772.79,Supplier_20,3.9,30117.6
+20652,Product_20652,Pet Supplies,Zen,12386.9,Supplier_150,3.2,18751.58
+20653,Product_20653,Furniture,ProGear,4366.48,Supplier_32,3.9,7408.99
+20654,Product_20654,Home Appliances,ProGear,21228.3,Supplier_130,4.0,26140.43
+20655,Product_20655,Toys,CloudNine,3913.05,Supplier_10,5.0,5250.42
+20656,Product_20656,Kitchen,FreshCart,6992.84,Supplier_132,4.7,8910.07
+20657,Product_20657,Automotive,StyleHub,3194.45,Supplier_7,3.4,4150.22
+20658,Product_20658,Office Supplies,TechPro,11529.33,Supplier_103,4.1,20693.69
+20659,Product_20659,Grocery,ProGear,15767.03,Supplier_55,4.1,33836.83
+20660,Product_20660,Pet Supplies,Elite,20695.25,Supplier_70,3.9,37057.73
+20661,Product_20661,Garden,Zen,11587.31,Supplier_17,3.9,24730.39
+20662,Product_20662,Mobile Accessories,TechPro,24270.93,Supplier_102,3.8,41608.08
+20663,Product_20663,Sports,StyleHub,14936.84,Supplier_94,5.0,21087.95
+20664,Product_20664,Fashion,Prime,15149.81,Supplier_49,3.8,30579.5
+20665,Product_20665,Jewelry,Zen,4464.67,Supplier_71,4.2,5309.42
+20666,Product_20666,Sports,Apex,4833.89,Supplier_83,2.6,5923.94
+20667,Product_20667,Footwear,ProGear,14457.99,Supplier_104,4.5,30304.72
+20668,Product_20668,Footwear,StyleHub,18049.9,Supplier_81,4.7,32303.74
+20669,Product_20669,Grocery,SmartOne,5197.2,Supplier_9,3.4,10793.71
+20670,Product_20670,Home Appliances,Prime,12152.04,Supplier_82,3.7,15273.57
+20671,Product_20671,Home Appliances,EcoLife,8969.38,Supplier_53,4.2,17143.25
+20672,Product_20672,Kitchen,Vision,11025.22,Supplier_62,4.0,15014.75
+20673,Product_20673,Garden,Vision,5631.06,Supplier_56,4.3,8298.24
+20674,Product_20674,Toys,ProGear,3604.0,Supplier_53,3.8,7373.64
+20675,Product_20675,Garden,Prime,8080.48,Supplier_36,5.0,12472.97
+20676,Product_20676,Furniture,EcoLife,21736.03,Supplier_50,3.6,39356.4
+20677,Product_20677,Gaming,StyleHub,20150.12,Supplier_107,5.0,40983.21
+20678,Product_20678,Automotive,Elite,2631.19,Supplier_34,4.7,5307.11
+20679,Product_20679,Health & Wellness,Vision,2286.43,Supplier_114,4.5,2581.78
+20680,Product_20680,Mobile Accessories,CloudNine,12374.49,Supplier_66,3.4,15876.0
+20681,Product_20681,Kitchen,Nova,7006.82,Supplier_92,4.5,14477.35
+20682,Product_20682,Grocery,HomeMax,20603.3,Supplier_18,4.3,35010.95
+20683,Product_20683,Travel,Vision,12205.91,Supplier_32,2.8,19707.74
+20684,Product_20684,Office Supplies,Prime,21332.42,Supplier_136,3.2,25326.18
+20685,Product_20685,Travel,SmartOne,2794.15,Supplier_125,4.2,3201.55
+20686,Product_20686,Travel,Urban,24254.92,Supplier_11,3.9,50984.26
+20687,Product_20687,Health & Wellness,Prime,19200.82,Supplier_136,3.7,30876.2
+20688,Product_20688,Fashion,SmartOne,18323.73,Supplier_126,4.6,35364.98
+20689,Product_20689,Footwear,HomeMax,23511.38,Supplier_21,3.5,31660.46
+20690,Product_20690,Travel,HomeMax,11810.54,Supplier_37,3.7,16111.75
+20691,Product_20691,Kitchen,Zen,3807.33,Supplier_27,3.6,6461.28
+20692,Product_20692,Travel,Vision,12472.83,Supplier_128,4.3,25223.89
+20693,Product_20693,Office Supplies,SmartOne,20399.07,Supplier_129,3.1,28910.32
+20694,Product_20694,Kitchen,Vision,21502.62,Supplier_109,3.7,31365.1
+20695,Product_20695,Furniture,ProGear,12264.79,Supplier_38,3.1,20692.51
+20696,Product_20696,Gaming,SmartOne,18334.33,Supplier_139,3.8,21289.93
+20697,Product_20697,Fashion,Prime,6249.12,Supplier_128,4.4,9436.95
+20698,Product_20698,Fashion,Apex,5840.62,Supplier_131,4.4,9888.0
+20699,Product_20699,Home Appliances,CloudNine,14697.86,Supplier_54,3.6,16534.68
+20700,Product_20700,Mobile Accessories,Zen,10601.6,Supplier_106,4.3,18840.57
+20701,Product_20701,Grocery,HomeMax,4110.2,Supplier_102,3.9,4819.17
+20702,Product_20702,Pet Supplies,TechPro,19057.93,Supplier_23,4.7,35477.44
+20703,Product_20703,Travel,CloudNine,13350.47,Supplier_88,3.9,25976.39
+20704,Product_20704,Books,FreshCart,13057.77,Supplier_83,2.4,25906.08
+20705,Product_20705,Beauty,StyleHub,4813.81,Supplier_88,4.5,8730.28
+20706,Product_20706,Beauty,Vision,6104.4,Supplier_51,3.7,10367.82
+20707,Product_20707,Garden,EcoLife,17348.43,Supplier_101,3.8,24926.02
+20708,Product_20708,Mobile Accessories,SmartOne,21312.39,Supplier_133,4.2,33190.9
+20709,Product_20709,Mobile Accessories,CloudNine,4512.58,Supplier_91,3.2,5458.72
+20710,Product_20710,Mobile Accessories,Vision,20327.41,Supplier_131,4.0,37571.45
+20711,Product_20711,Travel,Prime,19723.57,Supplier_116,4.3,22591.87
+20712,Product_20712,Mobile Accessories,StyleHub,20391.3,Supplier_48,4.2,31521.69
+20713,Product_20713,Garden,FreshCart,14585.42,Supplier_111,3.7,23940.46
+20714,Product_20714,Furniture,Nova,8860.87,Supplier_101,4.5,15857.34
+20715,Product_20715,Toys,TechPro,19298.42,Supplier_142,3.5,28436.12
+20716,Product_20716,Gaming,Urban,12050.64,Supplier_51,3.7,18992.67
+20717,Product_20717,Home Appliances,Vision,5624.42,Supplier_25,3.9,9702.11
+20718,Product_20718,Footwear,Apex,10119.43,Supplier_102,4.2,20956.02
+20719,Product_20719,Health & Wellness,SmartOne,11497.15,Supplier_95,3.8,20834.35
+20720,Product_20720,Pet Supplies,Nova,12683.09,Supplier_93,4.7,17528.89
+20721,Product_20721,Garden,Elite,22449.33,Supplier_111,4.2,44734.37
+20722,Product_20722,Electronics,Zen,10338.01,Supplier_77,4.0,12164.91
+20723,Product_20723,Office Supplies,HomeMax,7191.79,Supplier_5,4.1,10071.87
+20724,Product_20724,Beauty,ProGear,24062.46,Supplier_132,4.4,29630.43
+20725,Product_20725,Automotive,TechPro,6124.51,Supplier_42,4.1,9679.48
+20726,Product_20726,Garden,Prime,376.8,Supplier_37,3.0,669.21
+20727,Product_20727,Garden,Elite,21260.54,Supplier_123,4.6,35439.73
+20728,Product_20728,Furniture,Prime,23865.7,Supplier_120,4.1,46671.76
+20729,Product_20729,Books,StyleHub,17085.09,Supplier_76,4.4,29121.75
+20730,Product_20730,Footwear,Prime,10250.48,Supplier_104,3.8,13937.03
+20731,Product_20731,Kitchen,Vision,13639.49,Supplier_13,3.0,22812.25
+20732,Product_20732,Pet Supplies,Zen,20816.84,Supplier_43,2.7,39084.75
+20733,Product_20733,Beauty,Elite,22144.97,Supplier_37,3.5,36274.39
+20734,Product_20734,Home Appliances,Urban,2652.89,Supplier_64,4.3,4178.91
+20735,Product_20735,Mobile Accessories,Vision,21713.12,Supplier_54,4.7,36151.7
+20736,Product_20736,Mobile Accessories,Nova,15472.01,Supplier_11,4.2,26062.6
+20737,Product_20737,Grocery,Prime,903.74,Supplier_104,3.4,1301.27
+20738,Product_20738,Gaming,Zen,2801.29,Supplier_90,3.6,5602.17
+20739,Product_20739,Footwear,Elite,1233.8,Supplier_57,4.7,1645.78
+20740,Product_20740,Sports,CloudNine,23719.11,Supplier_134,3.3,27367.51
+20741,Product_20741,Jewelry,SmartOne,10720.3,Supplier_55,5.0,20194.23
+20742,Product_20742,Jewelry,TechPro,17918.83,Supplier_18,5.0,35615.17
+20743,Product_20743,Footwear,Zen,142.76,Supplier_128,5.0,254.4
+20744,Product_20744,Home Appliances,Urban,19849.98,Supplier_20,4.2,31819.79
+20745,Product_20745,Furniture,TechPro,12102.68,Supplier_11,3.8,25711.68
+20746,Product_20746,Fashion,StyleHub,23097.71,Supplier_72,4.2,34690.06
+20747,Product_20747,Mobile Accessories,Vision,13070.35,Supplier_87,4.5,20103.18
+20748,Product_20748,Books,Urban,19741.12,Supplier_43,3.6,34129.36
+20749,Product_20749,Kitchen,Nova,15773.72,Supplier_126,3.4,24659.68
+20750,Product_20750,Jewelry,EcoLife,13061.41,Supplier_42,3.8,22099.35
+20751,Product_20751,Garden,Urban,23711.28,Supplier_145,3.6,50162.65
+20752,Product_20752,Footwear,HomeMax,12440.42,Supplier_96,4.7,16976.49
+20753,Product_20753,Jewelry,Vision,22320.47,Supplier_28,3.7,28414.4
+20754,Product_20754,Travel,Elite,998.33,Supplier_62,4.1,1553.66
+20755,Product_20755,Electronics,EcoLife,16469.73,Supplier_12,4.5,26995.84
+20756,Product_20756,Office Supplies,Elite,22800.37,Supplier_127,4.7,42285.39
+20757,Product_20757,Mobile Accessories,Zen,22491.96,Supplier_98,4.1,47319.22
+20758,Product_20758,Automotive,Vision,12177.84,Supplier_65,4.2,22277.29
+20759,Product_20759,Pet Supplies,CloudNine,11855.22,Supplier_102,3.4,25332.12
+20760,Product_20760,Books,Urban,20281.78,Supplier_93,4.6,27861.67
+20761,Product_20761,Automotive,ProGear,8441.9,Supplier_90,4.7,11271.26
+20762,Product_20762,Kitchen,StyleHub,23435.32,Supplier_60,3.0,33646.81
+20763,Product_20763,Automotive,Elite,6342.03,Supplier_53,5.0,12244.8
+20764,Product_20764,Health & Wellness,Zen,1952.51,Supplier_39,3.6,2561.91
+20765,Product_20765,Travel,CloudNine,19320.91,Supplier_118,4.3,25543.71
+20766,Product_20766,Home Appliances,ProGear,10177.63,Supplier_71,4.0,15715.15
+20767,Product_20767,Sports,Vision,8958.86,Supplier_71,4.0,12964.1
+20768,Product_20768,Travel,Nova,8090.66,Supplier_109,3.9,14448.89
+20769,Product_20769,Grocery,Prime,24513.01,Supplier_80,3.5,49929.86
+20770,Product_20770,Books,SmartOne,14334.75,Supplier_143,4.3,18102.21
+20771,Product_20771,Health & Wellness,StyleHub,24798.67,Supplier_37,3.8,41740.07
+20772,Product_20772,Garden,Zen,8655.17,Supplier_7,3.3,10481.87
+20773,Product_20773,Footwear,FreshCart,10407.83,Supplier_64,3.4,14031.19
+20774,Product_20774,Gaming,StyleHub,5372.89,Supplier_80,3.3,7728.23
+20775,Product_20775,Health & Wellness,HomeMax,10816.07,Supplier_124,3.7,18565.52
+20776,Product_20776,Electronics,Zen,1643.93,Supplier_96,4.3,2780.75
+20777,Product_20777,Travel,CloudNine,113.89,Supplier_141,3.6,202.99
+20778,Product_20778,Grocery,TechPro,11381.53,Supplier_13,4.5,22347.33
+20779,Product_20779,Footwear,Urban,18676.0,Supplier_81,3.9,24518.73
+20780,Product_20780,Toys,Vision,10982.92,Supplier_125,3.8,20710.32
+20781,Product_20781,Automotive,Nova,12998.33,Supplier_76,4.0,23488.39
+20782,Product_20782,Toys,EcoLife,11195.84,Supplier_42,4.8,13458.55
+20783,Product_20783,Mobile Accessories,EcoLife,13217.43,Supplier_116,3.2,19496.19
+20784,Product_20784,Pet Supplies,Urban,19412.54,Supplier_132,4.9,22295.89
+20785,Product_20785,Beauty,ProGear,20114.28,Supplier_39,4.5,24396.41
+20786,Product_20786,Home Appliances,Nova,20967.65,Supplier_83,4.0,29612.62
+20787,Product_20787,Automotive,CloudNine,5389.5,Supplier_121,4.7,7385.82
+20788,Product_20788,Kitchen,FreshCart,11500.33,Supplier_23,3.8,23543.23
+20789,Product_20789,Home Appliances,Apex,20792.04,Supplier_2,4.2,42428.28
+20790,Product_20790,Garden,StyleHub,23552.79,Supplier_111,3.7,40397.83
+20791,Product_20791,Kitchen,Apex,13620.29,Supplier_113,4.5,25566.46
+20792,Product_20792,Gaming,SmartOne,12375.7,Supplier_24,3.6,26602.67
+20793,Product_20793,Jewelry,TechPro,19138.41,Supplier_90,4.0,29520.97
+20794,Product_20794,Electronics,StyleHub,24793.19,Supplier_109,4.4,41109.54
+20795,Product_20795,Fashion,CloudNine,10705.71,Supplier_145,4.6,19170.55
+20796,Product_20796,Gaming,SmartOne,4210.98,Supplier_122,3.5,8709.04
+20797,Product_20797,Automotive,Elite,20874.24,Supplier_33,4.4,40515.38
+20798,Product_20798,Home Appliances,SmartOne,17789.59,Supplier_87,3.5,21104.76
+20799,Product_20799,Mobile Accessories,StyleHub,3712.39,Supplier_110,2.8,6884.03
+20800,Product_20800,Toys,Nova,8155.38,Supplier_41,3.6,11250.29
+20801,Product_20801,Automotive,Prime,13875.26,Supplier_25,4.5,19183.22
+20802,Product_20802,Fashion,StyleHub,18313.49,Supplier_66,4.0,30833.61
+20803,Product_20803,Furniture,StyleHub,19538.1,Supplier_108,3.7,35895.2
+20804,Product_20804,Kitchen,StyleHub,3977.71,Supplier_80,4.0,5107.4
+20805,Product_20805,Sports,FreshCart,5497.09,Supplier_91,4.0,7937.51
+20806,Product_20806,Electronics,Prime,18628.65,Supplier_100,4.3,34604.67
+20807,Product_20807,Mobile Accessories,SmartOne,2991.2,Supplier_144,3.1,3818.45
+20808,Product_20808,Fashion,ProGear,12504.19,Supplier_96,3.9,24948.36
+20809,Product_20809,Automotive,SmartOne,13695.2,Supplier_21,4.1,21771.59
+20810,Product_20810,Beauty,Urban,8549.93,Supplier_61,3.2,14736.4
+20811,Product_20811,Electronics,HomeMax,19928.77,Supplier_26,3.2,23970.53
+20812,Product_20812,Garden,Nova,1479.85,Supplier_114,3.8,3112.33
+20813,Product_20813,Jewelry,Apex,19458.37,Supplier_150,4.0,39982.25
+20814,Product_20814,Automotive,FreshCart,16186.22,Supplier_116,4.0,21297.52
+20815,Product_20815,Fashion,SmartOne,12729.72,Supplier_37,3.7,22951.63
+20816,Product_20816,Health & Wellness,FreshCart,21822.08,Supplier_105,3.7,42267.42
+20817,Product_20817,Garden,Vision,5135.94,Supplier_4,3.8,6397.46
+20818,Product_20818,Jewelry,Urban,20039.27,Supplier_41,4.2,34362.88
+20819,Product_20819,Footwear,FreshCart,4775.59,Supplier_46,4.7,9531.92
+20820,Product_20820,Grocery,Vision,24762.11,Supplier_71,2.8,40657.29
+20821,Product_20821,Garden,Apex,915.84,Supplier_49,4.3,1897.16
+20822,Product_20822,Electronics,Nova,13874.61,Supplier_65,3.9,16222.69
+20823,Product_20823,Fashion,ProGear,4283.62,Supplier_2,4.3,8853.33
+20824,Product_20824,Home Appliances,Vision,10258.58,Supplier_123,4.7,21815.23
+20825,Product_20825,Kitchen,Prime,3783.87,Supplier_60,3.6,4845.7
+20826,Product_20826,Books,HomeMax,4926.25,Supplier_122,4.5,7704.06
+20827,Product_20827,Home Appliances,Elite,1618.41,Supplier_9,3.3,2847.41
+20828,Product_20828,Garden,ProGear,299.29,Supplier_130,4.1,610.56
+20829,Product_20829,Automotive,FreshCart,18010.72,Supplier_94,3.9,23131.38
+20830,Product_20830,Fashion,TechPro,11391.17,Supplier_35,4.0,16677.23
+20831,Product_20831,Garden,Prime,1235.25,Supplier_113,3.5,2398.69
+20832,Product_20832,Jewelry,TechPro,23480.35,Supplier_113,4.2,36213.85
+20833,Product_20833,Home Appliances,Vision,16673.69,Supplier_109,4.9,29063.77
+20834,Product_20834,Pet Supplies,FreshCart,6680.4,Supplier_131,3.5,11335.34
+20835,Product_20835,Mobile Accessories,SmartOne,11023.51,Supplier_144,4.1,23395.93
+20836,Product_20836,Garden,Nova,12282.74,Supplier_25,4.5,15547.21
+20837,Product_20837,Grocery,EcoLife,14291.2,Supplier_43,3.8,29967.13
+20838,Product_20838,Footwear,Apex,21450.51,Supplier_6,4.7,36488.93
+20839,Product_20839,Mobile Accessories,SmartOne,14788.52,Supplier_10,3.8,30335.35
+20840,Product_20840,Garden,HomeMax,24470.28,Supplier_16,3.9,30379.37
+20841,Product_20841,Automotive,StyleHub,18197.55,Supplier_104,3.5,32405.25
+20842,Product_20842,Kitchen,EcoLife,24714.08,Supplier_91,4.1,49065.19
+20843,Product_20843,Travel,SmartOne,13813.65,Supplier_6,4.0,26667.08
+20844,Product_20844,Toys,Nova,16993.38,Supplier_64,4.3,19206.54
+20845,Product_20845,Footwear,CloudNine,18473.67,Supplier_17,3.7,29295.02
+20846,Product_20846,Office Supplies,EcoLife,18893.2,Supplier_30,3.6,23405.03
+20847,Product_20847,Toys,StyleHub,708.3,Supplier_9,4.3,904.79
+20848,Product_20848,Fashion,TechPro,3274.11,Supplier_80,4.8,6048.84
+20849,Product_20849,Pet Supplies,Prime,5770.29,Supplier_13,4.3,12148.06
+20850,Product_20850,Pet Supplies,SmartOne,6860.21,Supplier_118,5.0,12163.98
+20851,Product_20851,Fashion,TechPro,22643.67,Supplier_140,4.3,27748.65
+20852,Product_20852,Kitchen,Elite,18092.82,Supplier_129,4.3,24810.98
+20853,Product_20853,Garden,SmartOne,3667.71,Supplier_124,4.4,5539.12
+20854,Product_20854,Office Supplies,HomeMax,10716.24,Supplier_113,4.8,13385.85
+20855,Product_20855,Furniture,Nova,6153.73,Supplier_137,4.7,12266.89
+20856,Product_20856,Travel,EcoLife,20763.6,Supplier_133,3.4,27415.02
+20857,Product_20857,Mobile Accessories,FreshCart,22953.14,Supplier_33,4.4,28770.33
+20858,Product_20858,Kitchen,HomeMax,4190.82,Supplier_91,4.1,7826.17
+20859,Product_20859,Toys,SmartOne,10472.61,Supplier_46,3.9,13097.44
+20860,Product_20860,Electronics,Prime,23825.64,Supplier_126,3.0,36754.12
+20861,Product_20861,Health & Wellness,HomeMax,16461.53,Supplier_2,3.2,27177.55
+20862,Product_20862,Footwear,ProGear,21715.61,Supplier_63,3.8,26115.98
+20863,Product_20863,Travel,HomeMax,9006.57,Supplier_57,3.2,15243.28
+20864,Product_20864,Travel,Elite,5321.59,Supplier_128,3.8,8592.07
+20865,Product_20865,Automotive,HomeMax,17313.46,Supplier_45,4.4,31310.85
+20866,Product_20866,Kitchen,FreshCart,3521.92,Supplier_135,3.7,4739.52
+20867,Product_20867,Mobile Accessories,SmartOne,21013.56,Supplier_75,4.0,31254.06
+20868,Product_20868,Travel,CloudNine,18895.45,Supplier_103,3.4,34001.32
+20869,Product_20869,Jewelry,StyleHub,7692.18,Supplier_80,4.2,8897.27
+20870,Product_20870,Grocery,StyleHub,12517.92,Supplier_65,4.3,15513.07
+20871,Product_20871,Mobile Accessories,TechPro,19999.93,Supplier_46,3.2,28241.07
+20872,Product_20872,Toys,SmartOne,23379.27,Supplier_43,3.6,28745.91
+20873,Product_20873,Garden,CloudNine,8868.8,Supplier_97,3.3,10294.0
+20874,Product_20874,Travel,Apex,19770.8,Supplier_49,4.3,42250.28
+20875,Product_20875,Mobile Accessories,CloudNine,4942.23,Supplier_130,4.1,7855.34
+20876,Product_20876,Office Supplies,CloudNine,22598.15,Supplier_20,4.0,37732.01
+20877,Product_20877,Mobile Accessories,ProGear,17187.63,Supplier_33,3.9,23762.79
+20878,Product_20878,Grocery,EcoLife,3903.21,Supplier_8,4.2,4402.5
+20879,Product_20879,Sports,FreshCart,18521.74,Supplier_130,4.2,35066.21
+20880,Product_20880,Electronics,Urban,18129.04,Supplier_63,3.7,33819.1
+20881,Product_20881,Home Appliances,SmartOne,18583.21,Supplier_6,3.7,39428.31
+20882,Product_20882,Travel,FreshCart,8687.45,Supplier_7,4.0,9918.77
+20883,Product_20883,Kitchen,FreshCart,18521.03,Supplier_138,3.9,23357.45
+20884,Product_20884,Office Supplies,EcoLife,20681.59,Supplier_133,5.0,38333.44
+20885,Product_20885,Automotive,TechPro,8743.51,Supplier_42,3.8,12765.31
+20886,Product_20886,Sports,CloudNine,5278.15,Supplier_98,4.2,6258.23
+20887,Product_20887,Electronics,Vision,22208.21,Supplier_38,4.3,31757.45
+20888,Product_20888,Toys,ProGear,15555.28,Supplier_127,4.8,18827.31
+20889,Product_20889,Office Supplies,SmartOne,11563.64,Supplier_108,3.6,22927.62
+20890,Product_20890,Fashion,Elite,22005.62,Supplier_67,4.7,44522.68
+20891,Product_20891,Books,StyleHub,3486.54,Supplier_140,3.9,6192.08
+20892,Product_20892,Sports,EcoLife,20283.56,Supplier_34,5.0,30773.51
+20893,Product_20893,Travel,FreshCart,12321.45,Supplier_150,4.2,23556.8
+20894,Product_20894,Furniture,StyleHub,1158.85,Supplier_44,3.3,2051.79
+20895,Product_20895,Home Appliances,Urban,24318.06,Supplier_134,3.9,47073.48
+20896,Product_20896,Fashion,ProGear,19473.86,Supplier_129,4.7,32058.54
+20897,Product_20897,Furniture,TechPro,5447.42,Supplier_85,4.0,11478.23
+20898,Product_20898,Pet Supplies,Prime,23100.02,Supplier_19,4.0,32772.8
+20899,Product_20899,Footwear,TechPro,23390.1,Supplier_113,4.4,40752.82
+20900,Product_20900,Grocery,Nova,20031.59,Supplier_105,3.8,39107.56
+20901,Product_20901,Footwear,Elite,3266.54,Supplier_130,3.9,6665.99
+20902,Product_20902,Pet Supplies,CloudNine,4740.9,Supplier_34,3.5,9932.9
+20903,Product_20903,Jewelry,Urban,18875.42,Supplier_36,5.0,28820.15
+20904,Product_20904,Books,Elite,22853.76,Supplier_53,3.3,42058.3
+20905,Product_20905,Office Supplies,Vision,5453.95,Supplier_56,4.1,7738.63
+20906,Product_20906,Mobile Accessories,CloudNine,11574.61,Supplier_1,4.3,20705.36
+20907,Product_20907,Jewelry,Apex,3954.37,Supplier_24,4.0,5179.25
+20908,Product_20908,Grocery,Nova,12002.4,Supplier_72,3.3,18652.87
+20909,Product_20909,Grocery,Elite,16098.98,Supplier_146,3.5,33290.18
+20910,Product_20910,Furniture,Zen,562.02,Supplier_20,4.3,1098.88
+20911,Product_20911,Mobile Accessories,EcoLife,16108.89,Supplier_37,3.6,26280.06
+20912,Product_20912,Jewelry,Elite,16029.77,Supplier_129,2.9,20377.86
+20913,Product_20913,Travel,TechPro,11429.71,Supplier_6,4.2,17493.5
+20914,Product_20914,Garden,Prime,22395.52,Supplier_15,3.5,28281.94
+20915,Product_20915,Fashion,ProGear,3456.99,Supplier_134,4.3,4115.84
+20916,Product_20916,Office Supplies,HomeMax,1377.66,Supplier_38,3.9,2829.31
+20917,Product_20917,Home Appliances,Nova,12446.2,Supplier_47,3.9,20239.69
+20918,Product_20918,Office Supplies,TechPro,13372.56,Supplier_3,4.0,16208.48
+20919,Product_20919,Automotive,StyleHub,6740.56,Supplier_61,3.4,12525.1
+20920,Product_20920,Travel,Elite,24044.53,Supplier_149,3.5,28767.04
+20921,Product_20921,Mobile Accessories,Urban,6417.81,Supplier_148,3.9,9806.74
+20922,Product_20922,Office Supplies,StyleHub,6827.03,Supplier_97,3.4,9265.64
+20923,Product_20923,Books,Apex,20293.56,Supplier_102,4.4,26169.95
+20924,Product_20924,Automotive,Zen,23078.31,Supplier_97,3.8,38530.52
+20925,Product_20925,Toys,Urban,13449.88,Supplier_105,3.2,25034.0
+20926,Product_20926,Health & Wellness,StyleHub,574.44,Supplier_78,3.7,931.63
+20927,Product_20927,Automotive,SmartOne,8950.33,Supplier_31,4.1,17591.22
+20928,Product_20928,Sports,Prime,5676.1,Supplier_131,3.8,11720.63
+20929,Product_20929,Sports,Prime,12824.35,Supplier_132,4.2,25025.39
+20930,Product_20930,Mobile Accessories,Vision,17096.04,Supplier_22,4.3,35990.35
+20931,Product_20931,Health & Wellness,Zen,9871.66,Supplier_15,5.0,20502.52
+20932,Product_20932,Health & Wellness,SmartOne,13480.26,Supplier_119,4.6,26657.11
+20933,Product_20933,Automotive,Prime,19020.52,Supplier_8,3.1,27035.99
+20934,Product_20934,Health & Wellness,SmartOne,6229.06,Supplier_122,3.8,8095.05
+20935,Product_20935,Footwear,Elite,4979.6,Supplier_148,3.9,9305.98
+20936,Product_20936,Fashion,HomeMax,20160.31,Supplier_6,4.3,40137.06
+20937,Product_20937,Garden,EcoLife,1021.89,Supplier_120,3.5,2010.89
+20938,Product_20938,Gaming,Zen,3849.85,Supplier_20,3.7,6864.02
+20939,Product_20939,Travel,Zen,407.68,Supplier_44,3.3,805.07
+20940,Product_20940,Mobile Accessories,Nova,13929.08,Supplier_83,3.7,25746.25
+20941,Product_20941,Toys,StyleHub,15042.13,Supplier_103,3.7,27155.96
+20942,Product_20942,Health & Wellness,CloudNine,13322.66,Supplier_14,3.8,15560.52
+20943,Product_20943,Electronics,Prime,10415.3,Supplier_17,3.3,16605.0
+20944,Product_20944,Gaming,HomeMax,13272.83,Supplier_43,4.5,15328.28
+20945,Product_20945,Office Supplies,FreshCart,4929.05,Supplier_103,4.3,5989.49
+20946,Product_20946,Beauty,StyleHub,20673.44,Supplier_61,3.2,34674.21
+20947,Product_20947,Toys,ProGear,24521.25,Supplier_42,4.0,28662.97
+20948,Product_20948,Garden,TechPro,13561.51,Supplier_24,3.1,27945.08
+20949,Product_20949,Travel,SmartOne,9421.45,Supplier_146,4.7,14922.17
+20950,Product_20950,Pet Supplies,CloudNine,19815.39,Supplier_106,4.9,36479.45
+20951,Product_20951,Gaming,EcoLife,4907.49,Supplier_148,4.0,6243.45
+20952,Product_20952,Health & Wellness,ProGear,8087.26,Supplier_75,3.5,16118.1
+20953,Product_20953,Garden,Vision,23505.52,Supplier_123,3.6,37900.51
+20954,Product_20954,Gaming,Prime,4738.72,Supplier_96,3.8,8034.69
+20955,Product_20955,Electronics,Apex,2891.68,Supplier_79,3.9,5170.15
+20956,Product_20956,Jewelry,SmartOne,13704.21,Supplier_72,4.8,22969.56
+20957,Product_20957,Beauty,TechPro,14726.69,Supplier_76,4.5,25036.59
+20958,Product_20958,Books,StyleHub,14969.04,Supplier_62,4.5,28244.47
+20959,Product_20959,Furniture,StyleHub,4195.51,Supplier_96,4.1,8184.04
+20960,Product_20960,Jewelry,ProGear,18056.5,Supplier_74,3.4,25917.42
+20961,Product_20961,Pet Supplies,CloudNine,6132.8,Supplier_146,3.6,12693.12
+20962,Product_20962,Sports,CloudNine,23707.75,Supplier_135,4.0,35194.48
+20963,Product_20963,Jewelry,Prime,5776.13,Supplier_70,3.3,8089.44
+20964,Product_20964,Beauty,ProGear,531.06,Supplier_60,4.2,765.14
+20965,Product_20965,Health & Wellness,Vision,14239.35,Supplier_114,4.4,21206.25
+20966,Product_20966,Mobile Accessories,FreshCart,5150.91,Supplier_97,4.3,7450.47
+20967,Product_20967,Travel,HomeMax,15751.49,Supplier_35,4.3,31330.7
+20968,Product_20968,Grocery,StyleHub,5807.41,Supplier_126,3.0,9860.91
+20969,Product_20969,Toys,HomeMax,10759.3,Supplier_103,4.7,22773.94
+20970,Product_20970,Pet Supplies,TechPro,4569.91,Supplier_94,3.1,5513.48
+20971,Product_20971,Electronics,Urban,10777.4,Supplier_118,3.9,18886.31
+20972,Product_20972,Garden,SmartOne,3499.36,Supplier_34,4.3,4265.39
+20973,Product_20973,Kitchen,Nova,8515.53,Supplier_120,4.2,13561.97
+20974,Product_20974,Gaming,ProGear,5053.4,Supplier_19,3.3,7651.94
+20975,Product_20975,Automotive,FreshCart,20420.94,Supplier_120,3.4,37190.58
+20976,Product_20976,Fashion,Urban,18260.92,Supplier_89,4.2,34473.11
+20977,Product_20977,Automotive,Urban,4253.8,Supplier_88,4.3,5807.44
+20978,Product_20978,Automotive,StyleHub,2164.32,Supplier_110,3.4,2855.88
+20979,Product_20979,Garden,FreshCart,741.04,Supplier_47,4.2,1150.17
+20980,Product_20980,Automotive,Prime,5744.13,Supplier_116,3.2,7865.13
+20981,Product_20981,Sports,HomeMax,12056.42,Supplier_4,4.3,21905.58
+20982,Product_20982,Furniture,Urban,10057.09,Supplier_105,3.5,16626.67
+20983,Product_20983,Beauty,FreshCart,24290.33,Supplier_120,4.0,47895.34
+20984,Product_20984,Automotive,Elite,19826.92,Supplier_1,4.0,42245.42
+20985,Product_20985,Grocery,Prime,2046.85,Supplier_105,4.6,3089.62
+20986,Product_20986,Grocery,Apex,4057.42,Supplier_117,4.1,8355.67
+20987,Product_20987,Electronics,Apex,762.32,Supplier_79,3.7,1464.03
+20988,Product_20988,Garden,FreshCart,3541.84,Supplier_91,4.2,4510.88
+20989,Product_20989,Pet Supplies,Elite,13282.49,Supplier_9,5.0,26312.69
+20990,Product_20990,Footwear,TechPro,2010.78,Supplier_149,4.4,3249.33
+20991,Product_20991,Home Appliances,Apex,1590.71,Supplier_146,4.0,2943.51
+20992,Product_20992,Pet Supplies,SmartOne,3042.22,Supplier_115,3.5,5608.91
+20993,Product_20993,Pet Supplies,Elite,16768.4,Supplier_3,3.7,34082.52
+20994,Product_20994,Travel,Elite,582.02,Supplier_65,4.4,1108.17
+20995,Product_20995,Toys,HomeMax,24243.69,Supplier_123,3.5,47744.61
+20996,Product_20996,Health & Wellness,ProGear,9581.58,Supplier_102,4.0,13898.46
+20997,Product_20997,Health & Wellness,CloudNine,8481.03,Supplier_136,4.8,17999.56
+20998,Product_20998,Fashion,FreshCart,11922.84,Supplier_93,4.1,21478.28
+20999,Product_20999,Toys,StyleHub,12994.76,Supplier_108,3.4,24909.69
+21000,Product_21000,Footwear,Urban,10558.33,Supplier_51,5.0,21165.73
